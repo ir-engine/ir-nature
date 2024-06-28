@@ -1,0 +1,905 @@
+{
+	"asset":{
+		"generator":"Khronos glTF Blender I/O v4.0.44",
+		"version":"2.0"
+	},
+	"scene":0,
+	"scenes":[
+		{
+			"extras":{
+				"sun_pos_properties":{
+					"show_surface":0,
+					"show_analemmas":0,
+					"show_north":0,
+					"latitude":0.0,
+					"day_of_year":170,
+					"sun_object":{},
+					"object_collection":{}
+				},
+				"puresky_properties":{
+					"int_flag_updt_camera":1
+				},
+				"HubsComponentsExtensionProperties":{},
+				"hubs_component_list":{},
+				"srr_settings":{
+					"status":{
+						"is_rendering":0,
+						"should_stop":0
+					}
+				},
+				"recast_navmesh":{},
+				"assets used":{
+					"e258da98-9c5b-4c30-955b-cb37fc5dea13":{
+						"addonVersion":"3.7.0",
+						"adult":false,
+						"assetBaseId":"e258da98-9c5b-4c30-955b-cb37fc5dea13",
+						"assetType":"model",
+						"author":{
+							"aboutMe":"I work as a photographer and love photogrammetry. My goal is to bring to this community unique natural assets from British Columbia, Canada. Hope you like them and let me know how I can improve on these assets :)",
+							"avatar128":"/avatar-redirect/4dc8c59c-cd24-44bc-bff3-6fe8b655d1a3/128/",
+							"firstName":"EB Adventure",
+							"fullName":"EB Adventure Photoscans",
+							"gravatarHash":"e4ff63806b4cdf467dfbcbc158d0c646",
+							"gravatarImg":"C:\\Users\\nhava\\AppData\\Local\\Temp\\bktemp_DESKTOPBVONPUGnhava\\bkit_g\\204469.jpg",
+							"id":"204469",
+							"lastName":"Photoscans",
+							"socialNetworks":[],
+							"tooltip":"EB Adventure Photoscans\n\nI work as a photographer and love photogrammetry. My goal is to bring to this community unique natural assets from British Columbia, Canada. Hope you like them and let me know how I can improve on these assets :)\n"
+						},
+						"available_resolutions":[
+							512,
+							1024,
+							2048,
+							4096,
+							8192
+						],
+						"bbox_max":[
+							1.1044,
+							2.4468,
+							4.0164
+						],
+						"bbox_min":[
+							-1.1372,
+							-1.8511,
+							-0.0911
+						],
+						"canDownload":true,
+						"canDownloadError":true,
+						"category":"environment-elements",
+						"created":"2023-07-14T23:52:21.834056+02:00",
+						"description":"Realistic Photoscan of Jagged Rock Formation",
+						"dictParameters":{
+							"animated":false,
+							"boundBoxMaxX":1.1044,
+							"boundBoxMaxY":2.4468,
+							"boundBoxMaxZ":4.0164,
+							"boundBoxMinX":-1.1372,
+							"boundBoxMinY":-1.8511,
+							"boundBoxMinZ":-0.0911,
+							"dimensionX":2.2416,
+							"dimensionY":4.2979,
+							"dimensionZ":4.1076,
+							"engines":[
+								"cycles"
+							],
+							"faceCount":449988,
+							"faceCountRender":449988,
+							"manifold":false,
+							"materials":[
+								"Sea_to_Sky_hwy_stop_1_u1_v1"
+							],
+							"megapixels":192,
+							"meshPolyType":"tri_dominant",
+							"modelStyle":"realistic",
+							"modifiers":[
+								""
+							],
+							"nodeCount":8,
+							"objectCount":1,
+							"procedural":false,
+							"productionLevel":"finished",
+							"purePbr":false,
+							"rig":false,
+							"shaders":[
+								"principled"
+							],
+							"simulation":false,
+							"textureCount":3,
+							"textureResolutionMax":8192,
+							"textureResolutionMin":8192,
+							"uv":true
+						},
+						"displayName":"Jagged Rock Photoscan",
+						"downloaded":0,
+						"files":[
+							{
+								"created":"2023-07-14T23:53:15.691804+02:00",
+								"downloadUrl":"https://www.blenderkit.com/api/v1/downloads/213732/",
+								"fileThumbnail":"",
+								"fileThumbnailLarge":"",
+								"fileType":"blend",
+								"modified":"2023-07-14T23:53:15.691820+02:00",
+								"resolution":""
+							},
+							{
+								"created":"2023-07-21T06:49:24.266711+02:00",
+								"downloadUrl":"https://www.blenderkit.com/api/v1/downloads/215875/",
+								"fileThumbnail":"",
+								"fileThumbnailLarge":"",
+								"fileType":"resolution_0_5K",
+								"modified":"2023-07-21T06:49:24.266725+02:00",
+								"resolution":""
+							},
+							{
+								"created":"2023-07-21T06:49:22.291156+02:00",
+								"downloadUrl":"https://www.blenderkit.com/api/v1/downloads/215874/",
+								"fileThumbnail":"",
+								"fileThumbnailLarge":"",
+								"fileType":"resolution_1K",
+								"modified":"2023-07-21T06:49:22.291170+02:00",
+								"resolution":""
+							},
+							{
+								"created":"2023-07-21T06:49:20.237539+02:00",
+								"downloadUrl":"https://www.blenderkit.com/api/v1/downloads/215873/",
+								"fileThumbnail":"",
+								"fileThumbnailLarge":"",
+								"fileType":"resolution_2K",
+								"modified":"2023-07-21T06:49:20.237552+02:00",
+								"resolution":""
+							},
+							{
+								"created":"2023-07-21T06:49:15.836907+02:00",
+								"downloadUrl":"https://www.blenderkit.com/api/v1/downloads/215872/",
+								"fileThumbnail":"",
+								"fileThumbnailLarge":"",
+								"fileType":"resolution_4K",
+								"modified":"2023-07-21T06:49:15.836922+02:00",
+								"resolution":""
+							},
+							{
+								"created":"2023-07-21T06:49:13.432628+02:00",
+								"downloadUrl":"https://www.blenderkit.com/api/v1/downloads/215871/",
+								"fileThumbnail":"",
+								"fileThumbnailLarge":"",
+								"fileType":"resolution_8K",
+								"modified":"2023-07-21T06:49:13.432641+02:00",
+								"resolution":""
+							},
+							{
+								"created":"2023-07-14T23:52:30.976780+02:00",
+								"downloadUrl":"https://www.blenderkit.com/api/v1/downloads/213731/",
+								"fileThumbnail":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.96x96_q85_crop-%2C.png",
+								"fileThumbnailLarge":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.1024x1024_q85_crop-%2C.png",
+								"fileType":"thumbnail",
+								"modified":"2023-07-14T23:53:16.967299+02:00",
+								"resolution":""
+							}
+						],
+						"filesSize":470311,
+						"id":"8a9204a6-68f8-4b04-9324-ca6b2a9bd6f7",
+						"isFree":false,
+						"isPrivate":false,
+						"lastBlendUpload":"2023-07-14T21:53:15.691804+00:00",
+						"lastGltfUpload":"",
+						"lastResolutionUpload":"2023-07-21T04:49:24.266711+00:00",
+						"lastThumbnailUpload":"2023-07-14T21:52:30.976780+00:00",
+						"lastUserInteraction":"2023-07-14T23:53:16.212904+02:00",
+						"lastVideoUpload":"",
+						"lastZipFileUpload":"",
+						"license":"royalty_free",
+						"max_resolution":8192,
+						"name":"Jagged Rock Photoscan",
+						"pk":59504,
+						"ratingsAverage":{
+							"bookmarks":0.8571428571428571,
+							"quality":9.5,
+							"virtualPrice":null,
+							"workingHours":20
+						},
+						"ratingsCount":{
+							"bookmarks":14,
+							"quality":2,
+							"virtualPrice":0,
+							"workingHours":1
+						},
+						"ratingsMedian":{
+							"bookmarks":1,
+							"quality":9.5,
+							"virtualPrice":null,
+							"workingHours":20
+						},
+						"ratingsSum":{
+							"bookmarks":12,
+							"quality":19,
+							"score":1900,
+							"virtualPrice":null,
+							"workingHours":20
+						},
+						"score":1900,
+						"showMarketingLabels":true,
+						"sourceAppName":"blender",
+						"sourceAppVersion":"3.5.1",
+						"tags":[
+							"rocks",
+							"rocky",
+							"jagged",
+							"nature",
+							"natural",
+							"environment",
+							"photoscan",
+							"realistic",
+							"outdoors",
+							"granite",
+							"bc",
+							"british columbia",
+							"canada"
+						],
+						"thumbnail":"thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.512x512_q85_crop-%2C.png.webp",
+						"thumbnailLargeUrl":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.1024x1024_q85_crop-%2C.png",
+						"thumbnailLargeUrlNonsquared":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.1024x1024_q85.png",
+						"thumbnailLargeUrlNonsquaredWebp":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.1024x1024_q85.png.webp?webp_generated=1695350595",
+						"thumbnailLargeUrlWebp":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.1024x1024_q85_crop-%2C.png.webp?webp_generated=1695350595",
+						"thumbnailMiddleUrl":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.512x512_q85_crop-%2C.png",
+						"thumbnailMiddleUrlNonsquared":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.512x512_q85.png",
+						"thumbnailMiddleUrlNonsquaredWebp":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.512x512_q85.png.webp?webp_generated=1695350595",
+						"thumbnailMiddleUrlWebp":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.512x512_q85_crop-%2C.png.webp?webp_generated=1695350595",
+						"thumbnailSmallUrl":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.256x256_q85_crop-%2C.png",
+						"thumbnailSmallUrlNonsquared":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.256x256_q85.png",
+						"thumbnailSmallUrlNonsquaredWebp":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.256x256_q85.png.webp?webp_generated=1695350595",
+						"thumbnailSmallUrlWebp":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.256x256_q85_crop-%2C.png.webp?webp_generated=1695350595",
+						"thumbnailXlargeUrl":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.2048x2048_q85_crop-%2C.png",
+						"thumbnailXlargeUrlNonsquared":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.2048x2048_q85.png",
+						"thumbnailXlargeUrlNonsquaredWebp":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.2048x2048_q85.png.webp?webp_generated=1695350595",
+						"thumbnailXlargeUrlWebp":"https://public.blenderkit.com/thumbnails/assets/8a9204a668f84b049324ca6b2a9bd6f7/files/thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.2048x2048_q85_crop-%2C.png.webp?webp_generated=1695350595",
+						"thumbnail_small":"thumbnail_b0bc751e-b92f-4d14-b6dc-409f0a30dd39.png.256x256_q85_crop-%2C.png.webp",
+						"tooltip_data":{
+							"aname":"Jagged Rock Photoscan",
+							"author_text":"by EB Adventure Photoscans",
+							"quality":"10"
+						},
+						"url":"https://www.blenderkit.com/api/v1/assets/8a9204a6-68f8-4b04-9324-ca6b2a9bd6f7/",
+						"verificationStatus":"validated",
+						"versionNumber":1,
+						"webpGeneratedTimestamp":1695350595,
+						"resolution":"resolution_2K"
+					}
+				},
+				"uuid":"0ba5a3be-6d97-4dcd-8c2e-327813129bde",
+				"assets reported":{},
+				"sna_icongallery":11,
+				"rflow_props":{},
+				"true_sky":{
+					"presets":{
+						"full_sky_preset":{
+							"presets":[
+								{
+									"name":"Default",
+									"display_name":"Default"
+								},
+								{
+									"name":"Morning",
+									"display_name":"Morning"
+								},
+								{
+									"name":"Mid-Morning",
+									"display_name":"Mid-Morning"
+								},
+								{
+									"name":"Midday",
+									"display_name":"Midday"
+								},
+								{
+									"name":"Azure Afternoon",
+									"display_name":"Azure Afternoon"
+								},
+								{
+									"name":"Dusty Afternoon",
+									"display_name":"Dusty Afternoon"
+								},
+								{
+									"name":"Dusk",
+									"display_name":"Dusk"
+								},
+								{
+									"name":"Dusty Dusk",
+									"display_name":"Dusty Dusk"
+								},
+								{
+									"name":"Alien Morning",
+									"display_name":"Alien Morning"
+								},
+								{
+									"name":"Alien Gas Desert",
+									"display_name":"Alien Gas Desert"
+								},
+								{
+									"name":"Alien Day",
+									"display_name":"Alien Day"
+								},
+								{
+									"name":"Mars",
+									"display_name":"Mars"
+								}
+							]
+						},
+						"time_preset":{
+							"presets":[
+								{
+									"name":"Sunrise",
+									"display_name":"Sunrise"
+								},
+								{
+									"name":"Morning - Golden Hour End",
+									"display_name":"Morning - Golden Hour End"
+								},
+								{
+									"name":"Mid-Morning",
+									"display_name":"Mid-Morning"
+								},
+								{
+									"name":"Noon",
+									"display_name":"Noon"
+								},
+								{
+									"name":"Afternoon",
+									"display_name":"Afternoon"
+								},
+								{
+									"name":"Evening - Golden Hour Start",
+									"display_name":"Evening - Golden Hour Start"
+								},
+								{
+									"name":"Sunset",
+									"display_name":"Sunset"
+								}
+							]
+						},
+						"sol_hsv_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Test",
+									"display_name":"Mars"
+								},
+								{
+									"name":"Venus",
+									"display_name":"Venus"
+								},
+								{
+									"name":"Saturated",
+									"display_name":"Saturated"
+								},
+								{
+									"name":"Desaturated",
+									"display_name":"Desaturated"
+								}
+							]
+						},
+						"atmosphere_preset":{
+							"presets":[
+								{
+									"name":"Clear",
+									"display_name":"Clear"
+								},
+								{
+									"name":"Dusty",
+									"display_name":"Dusty"
+								}
+							]
+						},
+						"haze_preset":{
+							"presets":[
+								{
+									"name":"Clear",
+									"display_name":"Clear"
+								},
+								{
+									"name":"Polluted",
+									"display_name":"Polluted"
+								},
+								{
+									"name":"Drab",
+									"display_name":"Drab"
+								},
+								{
+									"name":"Other",
+									"display_name":"Mars"
+								},
+								{
+									"name":"Green",
+									"display_name":"Green"
+								}
+							]
+						},
+						"fog_preset":{
+							"presets":[
+								{
+									"name":"Fog Clear",
+									"display_name":"Fog Clear"
+								},
+								{
+									"name":"Fog Dense",
+									"display_name":"Fog Dense"
+								},
+								{
+									"name":"",
+									"display_name":"Fog Blanket"
+								},
+								{
+									"name":"Fog Stormy",
+									"display_name":"Fog Stormy"
+								},
+								{
+									"name":"Fog (Sandy)",
+									"display_name":"Fog (Sandy/Dust)"
+								}
+							]
+						},
+						"night_sky_preset":{
+							"presets":[
+								{
+									"name":"Test",
+									"display_name":"Clear Night"
+								},
+								{
+									"name":"Clear Night w/o Moon",
+									"display_name":"Clear Night w/o Moon"
+								},
+								{
+									"name":"Test 2",
+									"display_name":"Hazy Night"
+								},
+								{
+									"name":"Hazy Night w/o Moon",
+									"display_name":"Hazy Night w/o Moon"
+								}
+							]
+						},
+						"night_hdris_preset":{
+							"presets":[
+								{
+									"name":"Earth Night",
+									"display_name":"Earth Night"
+								},
+								{
+									"name":"Interstellar Nursery",
+									"display_name":"Interstellar Nursery"
+								},
+								{
+									"name":"Black Hole",
+									"display_name":"Black Hole"
+								},
+								{
+									"name":"Blue Nebula",
+									"display_name":"Blue Nebula"
+								},
+								{
+									"name":"Red Nebula",
+									"display_name":"Blue Clouds"
+								},
+								{
+									"name":"Red Gas",
+									"display_name":"Red Gas"
+								},
+								{
+									"name":"Great Portal",
+									"display_name":"Great Portal"
+								},
+								{
+									"name":"Orange Nebula",
+									"display_name":"Orange Nebula"
+								}
+							]
+						},
+						"moon_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Earth Moon"
+								},
+								{
+									"name":"Super Moon",
+									"display_name":"Super Moon"
+								}
+							]
+						},
+						"moon_phase_preset":{
+							"presets":[
+								{
+									"name":"Waxing Crescent",
+									"display_name":"Waxing Crescent"
+								},
+								{
+									"name":"First Quarter",
+									"display_name":"First Quarter"
+								},
+								{
+									"name":"Waxing Gibbous",
+									"display_name":"Waxing Gibbous"
+								},
+								{
+									"name":"Full",
+									"display_name":"Full"
+								},
+								{
+									"name":"Waning Gibbous",
+									"display_name":"Waning Gibbous"
+								},
+								{
+									"name":"Third Quarter",
+									"display_name":"Third Quarter"
+								},
+								{
+									"name":"Waning Crescent",
+									"display_name":"Waning Crescent"
+								}
+							]
+						},
+						"nebula_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Pale Wisp",
+									"display_name":"Pale Wisp"
+								},
+								{
+									"name":"Golden Flares",
+									"display_name":"Golden Flares"
+								}
+							]
+						},
+						"stars_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Deep Space",
+									"display_name":"Deep Space"
+								},
+								{
+									"name":"Starry Night",
+									"display_name":"Starry Night"
+								}
+							]
+						},
+						"night_clarity_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Intense",
+									"display_name":"City Lights"
+								}
+							]
+						},
+						"cloud_preset":{
+							"presets":[
+								{
+									"name":"tVFX_Clouds-Stratocumulus",
+									"display_name":"Stratocumulus"
+								},
+								{
+									"name":"tVFX_Clouds-Cumulus Mediocris",
+									"display_name":"Cumulus Mediocris"
+								},
+								{
+									"name":"tVFX_Clouds-Cumulonimbus",
+									"display_name":"Cumulonimbus"
+								},
+								{
+									"name":"tVFX_Clouds-Cirrus",
+									"display_name":"Cirrus"
+								},
+								{
+									"name":"tVFX_Clouds-Altostratus Translucidus",
+									"display_name":"Altostratus Translucidus"
+								},
+								{
+									"name":"tVFX_Clouds-Altostratus Opacus",
+									"display_name":"Altostratus Opacus"
+								},
+								{
+									"name":"tVFX_Clouds-Altocumulus",
+									"display_name":"Altocumulus"
+								}
+							]
+						}
+					},
+					"performance":{
+						"performance_items":[
+							{
+								"name":"Testing"
+							},
+							{
+								"name":"Viewport Render Region"
+							},
+							{
+								"name":"Pixel Size"
+							},
+							{
+								"name":"Tile Size"
+							},
+							{
+								"name":"True-Speed"
+							}
+						]
+					}
+				}
+			},
+			"name":"Scene",
+			"nodes":[
+				2
+			]
+		}
+	],
+	"nodes":[
+		{
+			"extras":{
+				"Treezy":{},
+				"hubs_component_list":{},
+				"curvebash":{}
+			},
+			"mesh":0,
+			"name":"arctic_rockpile_02_mesh"
+		},
+		{
+			"extras":{
+				"xrengine.entity":"arctic_rockpile_02_mesh_Box_Collider",
+				"xrengine.EE_collider.shape":"mesh"
+			},
+			"mesh":1,
+			"name":"arctic_rockpile_02_mesh_Box_Collider",
+			"rotation":[
+				-0.7222827672958374,
+				0.009410412982106209,
+				0.6913408637046814,
+				0.016336247324943542
+			],
+			"scale":[
+				3.947359085083008,
+				0.5167699456214905,
+				2.6889259815216064
+			],
+			"translation":[
+				0.008545944467186928,
+				0.43706777691841125,
+				0.013857841491699219
+			]
+		},
+		{
+			"children":[
+				0,
+				1
+			],
+			"extras":{
+				"xrengine.entity":"arctic_rockpile_02",
+				"xrengine.EE_rigidbody.type":"fixed"
+			},
+			"name":"arctic_rockpile_02"
+		}
+	],
+	"materials":[
+		{
+			"doubleSided":true,
+			"extras":{
+				"hubs_component_list":{}
+			},
+			"name":"Material.001",
+			"normalTexture":{
+				"index":0
+			},
+			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":1
+				},
+				"metallicFactor":0,
+				"metallicRoughnessTexture":{
+					"index":2
+				}
+			}
+		}
+	],
+	"meshes":[
+		{
+			"name":"Plane.001",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":0,
+						"NORMAL":1,
+						"TEXCOORD_0":2
+					},
+					"indices":3,
+					"material":0
+				}
+			]
+		},
+		{
+			"name":"Cube",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":4,
+						"NORMAL":5,
+						"TEXCOORD_0":6
+					},
+					"indices":7
+				}
+			]
+		}
+	],
+	"textures":[
+		{
+			"sampler":0,
+			"source":0
+		},
+		{
+			"sampler":0,
+			"source":1
+		},
+		{
+			"sampler":0,
+			"source":2
+		}
+	],
+	"images":[
+		{
+			"mimeType":"image/png",
+			"name":"Arctic_rockpile_01_Normal_OpenGL",
+			"uri":"textures/Arctic_rockpile_01_Normal_OpenGL.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"Arctic_rockpile_01_Base_color",
+			"uri":"textures/Arctic_rockpile_01_Base_color.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"Arctic_rockpile_01_Roughness",
+			"uri":"textures/Arctic_rockpile_01_Roughness.png"
+		}
+	],
+	"accessors":[
+		{
+			"bufferView":0,
+			"componentType":5126,
+			"count":1089,
+			"max":[
+				2.611402988433838,
+				0.9910026788711548,
+				3.9544265270233154
+			],
+			"min":[
+				-2.6114025115966797,
+				0,
+				-3.9544265270233154
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":1,
+			"componentType":5126,
+			"count":1089,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":2,
+			"componentType":5126,
+			"count":1089,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":3,
+			"componentType":5123,
+			"count":6144,
+			"type":"SCALAR"
+		},
+		{
+			"bufferView":4,
+			"componentType":5126,
+			"count":404,
+			"max":[
+				0.9978511333465576,
+				0.9942059516906738,
+				0.961088240146637
+			],
+			"min":[
+				-0.9791710376739502,
+				-0.8452165126800537,
+				-0.9772141575813293
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":5,
+			"componentType":5126,
+			"count":404,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":6,
+			"componentType":5126,
+			"count":404,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":7,
+			"componentType":5123,
+			"count":624,
+			"type":"SCALAR"
+		}
+	],
+	"bufferViews":[
+		{
+			"buffer":0,
+			"byteLength":13068,
+			"byteOffset":0,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":13068,
+			"byteOffset":13068,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":8712,
+			"byteOffset":26136,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":12288,
+			"byteOffset":34848,
+			"target":34963
+		},
+		{
+			"buffer":0,
+			"byteLength":4848,
+			"byteOffset":47136,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":4848,
+			"byteOffset":51984,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":3232,
+			"byteOffset":56832,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":1248,
+			"byteOffset":60064,
+			"target":34963
+		}
+	],
+	"samplers":[
+		{
+			"magFilter":9729,
+			"minFilter":9987
+		}
+	],
+	"buffers":[
+		{
+			"byteLength":61312,
+			"uri":"arctic_rockpile_02.bin"
+		}
+	]
+}

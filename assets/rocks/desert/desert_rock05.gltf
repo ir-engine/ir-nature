@@ -1,0 +1,860 @@
+{
+	"asset":{
+		"generator":"Khronos glTF Blender I/O v3.6.28",
+		"version":"2.0"
+	},
+	"extensionsUsed":[
+		"KHR_materials_specular",
+		"KHR_materials_ior"
+	],
+	"scene":0,
+	"scenes":[
+		{
+			"extras":{
+				"sun_pos_properties":{
+					"show_surface":0,
+					"show_analemmas":0,
+					"show_north":0,
+					"latitude":0.0,
+					"day_of_year":320,
+					"sun_object":{},
+					"object_collection":{}
+				},
+				"true_sky":{
+					"presets":{
+						"full_sky_preset":{
+							"presets":[
+								{
+									"name":"Default",
+									"display_name":"Default"
+								},
+								{
+									"name":"Morning",
+									"display_name":"Morning"
+								},
+								{
+									"name":"Mid-Morning",
+									"display_name":"Mid-Morning"
+								},
+								{
+									"name":"Midday",
+									"display_name":"Midday"
+								},
+								{
+									"name":"Azure Afternoon",
+									"display_name":"Azure Afternoon"
+								},
+								{
+									"name":"Dusty Afternoon",
+									"display_name":"Dusty Afternoon"
+								},
+								{
+									"name":"Dusk",
+									"display_name":"Dusk"
+								},
+								{
+									"name":"Dusty Dusk",
+									"display_name":"Dusty Dusk"
+								},
+								{
+									"name":"Alien Morning",
+									"display_name":"Alien Morning"
+								},
+								{
+									"name":"Alien Gas Desert",
+									"display_name":"Alien Gas Desert"
+								},
+								{
+									"name":"Alien Day",
+									"display_name":"Alien Day"
+								},
+								{
+									"name":"Mars",
+									"display_name":"Mars"
+								}
+							]
+						},
+						"time_preset":{
+							"presets":[
+								{
+									"name":"Sunrise",
+									"display_name":"Sunrise"
+								},
+								{
+									"name":"Morning - Golden Hour End",
+									"display_name":"Morning - Golden Hour End"
+								},
+								{
+									"name":"Mid-Morning",
+									"display_name":"Mid-Morning"
+								},
+								{
+									"name":"Noon",
+									"display_name":"Noon"
+								},
+								{
+									"name":"Afternoon",
+									"display_name":"Afternoon"
+								},
+								{
+									"name":"Evening - Golden Hour Start",
+									"display_name":"Evening - Golden Hour Start"
+								},
+								{
+									"name":"Sunset",
+									"display_name":"Sunset"
+								}
+							]
+						},
+						"sol_hsv_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Test",
+									"display_name":"Mars"
+								},
+								{
+									"name":"Venus",
+									"display_name":"Venus"
+								},
+								{
+									"name":"Saturated",
+									"display_name":"Saturated"
+								},
+								{
+									"name":"Desaturated",
+									"display_name":"Desaturated"
+								}
+							]
+						},
+						"atmosphere_preset":{
+							"presets":[
+								{
+									"name":"Clear",
+									"display_name":"Clear"
+								},
+								{
+									"name":"Dusty",
+									"display_name":"Dusty"
+								}
+							]
+						},
+						"haze_preset":{
+							"presets":[
+								{
+									"name":"Clear",
+									"display_name":"Clear"
+								},
+								{
+									"name":"Polluted",
+									"display_name":"Polluted"
+								},
+								{
+									"name":"Drab",
+									"display_name":"Drab"
+								},
+								{
+									"name":"Other",
+									"display_name":"Mars"
+								},
+								{
+									"name":"Green",
+									"display_name":"Green"
+								}
+							]
+						},
+						"fog_preset":{
+							"presets":[
+								{
+									"name":"Fog Clear",
+									"display_name":"Fog Clear"
+								},
+								{
+									"name":"Fog Dense",
+									"display_name":"Fog Dense"
+								},
+								{
+									"name":"",
+									"display_name":"Fog Blanket"
+								},
+								{
+									"name":"Fog Stormy",
+									"display_name":"Fog Stormy"
+								},
+								{
+									"name":"Fog (Sandy)",
+									"display_name":"Fog (Sandy/Dust)"
+								}
+							]
+						},
+						"night_sky_preset":{
+							"presets":[
+								{
+									"name":"Test",
+									"display_name":"Clear Night"
+								},
+								{
+									"name":"Clear Night w/o Moon",
+									"display_name":"Clear Night w/o Moon"
+								},
+								{
+									"name":"Test 2",
+									"display_name":"Hazy Night"
+								},
+								{
+									"name":"Hazy Night w/o Moon",
+									"display_name":"Hazy Night w/o Moon"
+								}
+							]
+						},
+						"night_hdris_preset":{
+							"presets":[
+								{
+									"name":"Earth Night",
+									"display_name":"Earth Night"
+								},
+								{
+									"name":"Interstellar Nursery",
+									"display_name":"Interstellar Nursery"
+								},
+								{
+									"name":"Black Hole",
+									"display_name":"Black Hole"
+								},
+								{
+									"name":"Blue Nebula",
+									"display_name":"Blue Nebula"
+								},
+								{
+									"name":"Red Nebula",
+									"display_name":"Blue Clouds"
+								},
+								{
+									"name":"Red Gas",
+									"display_name":"Red Gas"
+								},
+								{
+									"name":"Great Portal",
+									"display_name":"Great Portal"
+								},
+								{
+									"name":"Orange Nebula",
+									"display_name":"Orange Nebula"
+								}
+							]
+						},
+						"moon_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Earth Moon"
+								},
+								{
+									"name":"Super Moon",
+									"display_name":"Super Moon"
+								}
+							]
+						},
+						"moon_phase_preset":{
+							"presets":[
+								{
+									"name":"Waxing Crescent",
+									"display_name":"Waxing Crescent"
+								},
+								{
+									"name":"First Quarter",
+									"display_name":"First Quarter"
+								},
+								{
+									"name":"Waxing Gibbous",
+									"display_name":"Waxing Gibbous"
+								},
+								{
+									"name":"Full",
+									"display_name":"Full"
+								},
+								{
+									"name":"Waning Gibbous",
+									"display_name":"Waning Gibbous"
+								},
+								{
+									"name":"Third Quarter",
+									"display_name":"Third Quarter"
+								},
+								{
+									"name":"Waning Crescent",
+									"display_name":"Waning Crescent"
+								}
+							]
+						},
+						"nebula_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Pale Wisp",
+									"display_name":"Pale Wisp"
+								},
+								{
+									"name":"Golden Flares",
+									"display_name":"Golden Flares"
+								}
+							]
+						},
+						"stars_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Deep Space",
+									"display_name":"Deep Space"
+								},
+								{
+									"name":"Starry Night",
+									"display_name":"Starry Night"
+								}
+							]
+						},
+						"night_clarity_preset":{
+							"presets":[
+								{
+									"name":"Base",
+									"display_name":"Base"
+								},
+								{
+									"name":"Intense",
+									"display_name":"City Lights"
+								}
+							]
+						},
+						"cloud_preset":{
+							"presets":[
+								{
+									"name":"tVFX_Clouds-Stratocumulus",
+									"display_name":"Stratocumulus"
+								},
+								{
+									"name":"tVFX_Clouds-Cumulus Mediocris",
+									"display_name":"Cumulus Mediocris"
+								},
+								{
+									"name":"tVFX_Clouds-Cumulonimbus",
+									"display_name":"Cumulonimbus"
+								},
+								{
+									"name":"tVFX_Clouds-Cirrus",
+									"display_name":"Cirrus"
+								},
+								{
+									"name":"tVFX_Clouds-Altostratus Translucidus",
+									"display_name":"Altostratus Translucidus"
+								},
+								{
+									"name":"tVFX_Clouds-Altostratus Opacus",
+									"display_name":"Altostratus Opacus"
+								},
+								{
+									"name":"tVFX_Clouds-Altocumulus",
+									"display_name":"Altocumulus"
+								}
+							]
+						}
+					},
+					"performance":{
+						"performance_items":[
+							{
+								"name":"Testing"
+							},
+							{
+								"name":"Viewport Render Region"
+							},
+							{
+								"name":"Pixel Size"
+							},
+							{
+								"name":"Tile Size"
+							},
+							{
+								"name":"True-Speed"
+							}
+						]
+					}
+				},
+				"ht_props":{
+					"hair_drawing":{},
+					"jiggle_props":{
+						"sim_is_running":0
+					},
+					"draw_strands":0
+				},
+				"HubsComponentsExtensionProperties":{},
+				"hubs_component_list":{},
+				"flip_fluid":{},
+				"flip_fluid_material_library":{
+					"library_path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library",
+					"material_list":[
+						{
+							"name":"FF Apple Juice",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Apple Juice.blend",
+							"type":0,
+							"icon_id":1087,
+							"imported_icon_id":1088
+						},
+						{
+							"name":"FF Beer",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Beer.blend",
+							"type":0,
+							"icon_id":1089,
+							"imported_icon_id":1090
+						},
+						{
+							"name":"FF Blood",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Blood.blend",
+							"type":0,
+							"icon_id":1091,
+							"imported_icon_id":1092
+						},
+						{
+							"name":"FF Caramel",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Caramel.blend",
+							"type":0,
+							"icon_id":1093,
+							"imported_icon_id":1094
+						},
+						{
+							"name":"FF Chocolate",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Chocolate.blend",
+							"type":0,
+							"icon_id":1095,
+							"imported_icon_id":1096
+						},
+						{
+							"name":"FF Coffee",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Coffee.blend",
+							"type":0,
+							"icon_id":1097,
+							"imported_icon_id":1098
+						},
+						{
+							"name":"FF Copper",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Copper.blend",
+							"type":0,
+							"icon_id":1099,
+							"imported_icon_id":1100
+						},
+						{
+							"name":"FF Milk",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Milk.blend",
+							"type":0,
+							"icon_id":1101,
+							"imported_icon_id":1102
+						},
+						{
+							"name":"FF Orange Juice",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Orange Juice.blend",
+							"type":0,
+							"icon_id":1103,
+							"imported_icon_id":1104
+						},
+						{
+							"name":"FF Water (clear)",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Water (clear).blend",
+							"type":0,
+							"icon_id":1105,
+							"imported_icon_id":1106
+						},
+						{
+							"name":"FF Water (iced)",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Water (iced).blend",
+							"type":0,
+							"icon_id":1107,
+							"imported_icon_id":1108
+						},
+						{
+							"name":"FF Water (ocean 1)",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Water (ocean 1).blend",
+							"type":0,
+							"icon_id":1109,
+							"imported_icon_id":1110
+						},
+						{
+							"name":"FF Water (ocean 2)",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Water (ocean 2).blend",
+							"type":0,
+							"icon_id":1111,
+							"imported_icon_id":1112
+						},
+						{
+							"name":"FF Water (ocean volumetric)",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Water (ocean volumetric).blend",
+							"type":0,
+							"icon_id":1113,
+							"imported_icon_id":1114
+						},
+						{
+							"name":"FF Wax",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Wax.blend",
+							"type":0,
+							"icon_id":1115,
+							"imported_icon_id":1116
+						},
+						{
+							"name":"FF Wine Red",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\surface\\FF Wine Red.blend",
+							"type":0,
+							"icon_id":1117,
+							"imported_icon_id":1118
+						},
+						{
+							"name":"FF Bubble",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\whitewater\\FF Bubble.blend",
+							"type":1,
+							"icon_id":1119,
+							"imported_icon_id":1120
+						},
+						{
+							"name":"FF Foam",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\whitewater\\FF Foam.blend",
+							"type":1,
+							"icon_id":1121,
+							"imported_icon_id":1122
+						},
+						{
+							"name":"FF Spray",
+							"description":"",
+							"path":"C:\\Users\\nhava\\AppData\\Roaming\\Blender Foundation\\Blender\\3.6\\scripts\\addons\\flip_fluids_addon\\materials\\material_library\\whitewater\\FF Spray.blend",
+							"type":1,
+							"icon_id":1123,
+							"imported_icon_id":1124
+						}
+					]
+				},
+				"flip_fluid_helper":{
+					"is_auto_frame_load_cmd_operator_running":0
+				},
+				"puresky_properties":{
+					"int_flag_updt_camera":1
+				},
+				"bc":{
+					"snap":{
+						"hit":false
+					}
+				},
+				"recast_navmesh":{},
+				"fluid_painter":{
+					"category":0,
+					"fluid":0
+				},
+				"rflow_props":{},
+				"SimpleBake_Props":{},
+				"CC3ImportProps":{},
+				"xol_link_apps":[
+					{
+						"id":58050,
+						"port":"58050",
+						"type":"BLD",
+						"label":"Blender Foundation - Blender"
+					}
+				],
+				"xol_link_apps_list":0
+			},
+			"name":"Scene",
+			"nodes":[
+				2
+			]
+		}
+	],
+	"nodes":[
+		{
+			"extras":{
+				"xrengine.entity":"rock_collider",
+				"xrengine.EE_collider.shape":"box"
+			},
+			"mesh":0,
+			"name":"Cube_collider.015",
+			"scale":[
+				1.232926607131958,
+				0.6081578135490417,
+				1.5746870040893555
+			]
+		},
+		{
+			"extras":{
+				"hops":{},
+				"ht_props":{
+					"short_hair_props":{},
+					"hair_nodes":{}
+				}
+			},
+			"mesh":1,
+			"name":"Rock_desert_05",
+			"rotation":[
+				0.7071068286895752,
+				0,
+				0,
+				0.7071068286895752
+			]
+		},
+		{
+			"children":[
+				0,
+				1
+			],
+			"extras":{
+				"xrengine.entity":"rock_rbd",
+				"xrengine.EE_rigidbody.type":"fixed"
+			},
+			"name":"rbd_rock_desert01.005"
+		}
+	],
+	"materials":[
+		{
+			"doubleSided":true,
+			"extensions":{
+				"KHR_materials_specular":{
+					"specularColorFactor":[
+						0,
+						0,
+						0
+					]
+				},
+				"KHR_materials_ior":{
+					"ior":1.4500000476837158
+				}
+			},
+			"name":"rock_desert",
+			"normalTexture":{
+				"index":0
+			},
+			"pbrMetallicRoughness":{
+				"baseColorTexture":{
+					"index":1
+				},
+				"metallicFactor":0,
+				"metallicRoughnessTexture":{
+					"index":2
+				}
+			}
+		}
+	],
+	"meshes":[
+		{
+			"name":"Cube.035",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":0,
+						"NORMAL":1,
+						"TEXCOORD_0":2
+					},
+					"indices":3
+				}
+			]
+		},
+		{
+			"extras":{
+				"hops":{}
+			},
+			"name":"Cube.020",
+			"primitives":[
+				{
+					"attributes":{
+						"POSITION":4,
+						"NORMAL":5,
+						"TEXCOORD_0":6
+					},
+					"indices":7,
+					"material":0
+				}
+			]
+		}
+	],
+	"textures":[
+		{
+			"sampler":0,
+			"source":0
+		},
+		{
+			"sampler":0,
+			"source":1
+		},
+		{
+			"sampler":0,
+			"source":2
+		}
+	],
+	"images":[
+		{
+			"mimeType":"image/png",
+			"name":"Rocks_Desert_Normal",
+			"uri":"Rocks_Desert_Normal.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"Rocks_Desert_BaseColor",
+			"uri":"Rocks_Desert_BaseColor.png"
+		},
+		{
+			"mimeType":"image/png",
+			"name":"Rocks_Desert_Roughness",
+			"uri":"Rocks_Desert_Roughness.png"
+		}
+	],
+	"accessors":[
+		{
+			"bufferView":0,
+			"componentType":5126,
+			"count":24,
+			"max":[
+				1,
+				1,
+				1
+			],
+			"min":[
+				-1,
+				-1,
+				-1
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":1,
+			"componentType":5126,
+			"count":24,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":2,
+			"componentType":5126,
+			"count":24,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":3,
+			"componentType":5123,
+			"count":36,
+			"type":"SCALAR"
+		},
+		{
+			"bufferView":4,
+			"componentType":5126,
+			"count":451,
+			"max":[
+				1.3412303924560547,
+				1.7116570472717285,
+				0.7084798216819763
+			],
+			"min":[
+				-1.378720760345459,
+				-1.8729920387268066,
+				-0.8108183145523071
+			],
+			"type":"VEC3"
+		},
+		{
+			"bufferView":5,
+			"componentType":5126,
+			"count":451,
+			"type":"VEC3"
+		},
+		{
+			"bufferView":6,
+			"componentType":5126,
+			"count":451,
+			"type":"VEC2"
+		},
+		{
+			"bufferView":7,
+			"componentType":5123,
+			"count":2442,
+			"type":"SCALAR"
+		}
+	],
+	"bufferViews":[
+		{
+			"buffer":0,
+			"byteLength":288,
+			"byteOffset":0,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":288,
+			"byteOffset":288,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":192,
+			"byteOffset":576,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":72,
+			"byteOffset":768,
+			"target":34963
+		},
+		{
+			"buffer":0,
+			"byteLength":5412,
+			"byteOffset":840,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":5412,
+			"byteOffset":6252,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":3608,
+			"byteOffset":11664,
+			"target":34962
+		},
+		{
+			"buffer":0,
+			"byteLength":4884,
+			"byteOffset":15272,
+			"target":34963
+		}
+	],
+	"samplers":[
+		{
+			"magFilter":9729,
+			"minFilter":9987
+		}
+	],
+	"buffers":[
+		{
+			"byteLength":20156,
+			"uri":"desert_rock05.bin"
+		}
+	]
+}

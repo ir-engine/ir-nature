@@ -1,0 +1,16 @@
+{
+	"asset":{
+		"generator":"Khronos glTF Blender I/O v3.6.28",
+		"version":"2.0"
+	},
+	"scene":0,
+	"scenes":[
+		{
+			"extras":{
+				"xol_link_apps":[],
+				"xol_link_apps_list":0
+			},
+			"name":"Scene"
+		}
+	]
+}
