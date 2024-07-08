@@ -1,0 +1,3155 @@
+{
+  "assets/.ds_store": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_nature.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/abstract_nature_stump_01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/abstract_nature_stump_01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_stump_01.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/abstract_nature_stump_02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_stump_02.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/abstract_nature_tree_02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/abstract_nature_tree_02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_tree_02.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/abstract_nature_tree_03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/abstract_nature_tree_03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_tree_03.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/abstract_nature_tree_04.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/abstract_nature_tree_04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_tree_04.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/abstract_nature_tree_05.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/abstract_nature_tree_05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_tree_05.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/abstract_nature_tree_06.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/abstract_nature_tree_06.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_tree_06.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_grass_01_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_grass_01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Plant"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_grass_01.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_grass_02_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_grass_02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Plant"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_grass_02.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_grass_03_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_grass_03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Plant"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_grass_03.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_grass_04_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_grass_04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Plant"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_grass_04.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_lantern_01_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_lantern_01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Prop"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_lantern_01.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_lantern_02_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_lantern_02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Prop"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_lantern_02.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_mushroom_01_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_mushroom_01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Plant"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_mushroom_01.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_mushroom_02_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_mushroom_02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Plant"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_mushroom_02.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_mushroom_03_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_mushroom_03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Plant"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_mushroom_03.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_mushroom_04_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_mushroom_04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Plant"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_mushroom_04.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_mushroom_05_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_mushroom_05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Plant"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_mushroom_05.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_rock_01_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_02_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Rock"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_02.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_rock_03_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Rock"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_03.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_rock_04_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_04.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_05_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_05.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Rock"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_05.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_rock_06_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_06.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_07_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_07.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_08_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_rock_08.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Rock"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_08.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/fantasy_water_lilly_data.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/abstract_nature/fantasy_water_lilly.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Abstract Nature",
+      "Plant"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_water_lilly.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/Image.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureImage.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/abstract_nature/stylized_forest_diffuse.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturestylized_forest_diffuse.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/ground_coverage/ground_coverage_dandelion_flower_01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_dandelion_flower_01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_dandelion_flower_02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_dandelion_flower_02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_dandelion_flower_03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_dandelion_flower_03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_dandelion_leaves_02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_dandelion_leaves_02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_plants_diffuse.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_sorrel_flowers_01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_sorrel_flowers_01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_sorrel_flowers_02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_sorrel_flowers_02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_sorrel_flowers_03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_sorrel_flowers_03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_sorrel_leaves_01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_sorrel_leaves_01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_sorrel_leaves_02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_sorrel_leaves_02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_weeds_03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_weeds_03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_weeds_04.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_weeds_04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_weeds_05.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/ground_coverage_weeds_05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/wheat_texture.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/wheat01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/wheat01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/wheat02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/wheat02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/wheat03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/wheat03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/wheat04.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/wheat04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/wheat05.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/ground_coverage/wheat05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/bambo_agave.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/bambo_agave.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/begonia_rex.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/begonia_rex.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/Image_0_rhyzome.jpg": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/Image_0.jpg": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/Image_0bamboo.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/Image_0begonia_begonia.jpg": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/Image_1_rhyzome.jpg": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/Image_1.jpg": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/Image_1bamboo.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/Image_2_begonia.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/Image_2.jpg": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/Image_3.jpg": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/Image_3.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/Image_4.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/rhyzomePlant_colliders.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/rhyzomePlant_colliders.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/tall_vine_house_plants.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/house_plants/CC0/tall_vine_house_plants.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/plants/desert/desert_shrub_01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/plants/desert/desert_shrub_01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/plants/desert/desert_shrub_02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/plants/desert/desert_shrub_02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/plants/desert/desert_shrub_03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/plants/desert/desert_shrub_03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/plants/desert/nature_desert_diffuse.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/plants/desert/spiny_aloe_01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/plants/desert/spiny_aloe_01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/plants/desert/spiny_aloe_02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/plants/desert/spiny_aloe_02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/aboreal/aboreal_rock01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/aboreal/aboreal_rock01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/aboreal/aboreal_rock02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/aboreal/aboreal_rock02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/aboreal/aboreal_rock03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/aboreal/aboreal_rock03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/aboreal/aboreal_rock04.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/aboreal/aboreal_rock04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/aboreal/aboreal_rock05.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/aboreal/aboreal_rock05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/aboreal/Rocks_Temperate_BaseColor.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/aboreal/Rocks_Temperate_Normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/aboreal/Rocks_Temperate_Roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rock01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rock01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rock02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rock02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rock03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rock03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rock04.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rock04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rock05.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rock05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rockpile_01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rockpile_01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rockpile_02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rockpile_02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rockpile_03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/arctic_rockpile_03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_offset_01.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_offset_01.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_offset_02.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_offset_02.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_offset_03.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_offset_03.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_offset_04.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_offset_04.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_pile_01.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_pile_01.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_pile_02.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_pile_02.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_pile_03.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_pile_03.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_pile_04.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Med_pile_04.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Rocks_Arctic_BaseColor.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Rocks_Arctic_Normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Rocks_Arctic_Roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Short_pile_01.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Short_pile_01.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Short_Pile_02.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Short_Pile_02.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Short_Pile_03.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Short_Pile_03.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Short_Pile_04.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/Short_Pile_04.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/textures/Arctic_rockpile_01_Base_color.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/textures/Arctic_rockpile_01_Normal_OpenGL.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/textures/Arctic_rockpile_01_Roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/textures/Basalt_Columns_Base_color.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/textures/Basalt_Columns_Metallic-Basalt_Columns_Roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/arctic/textures/Basalt_Columns_Normal_OpenGL.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/cliff_collection_cliff01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/cliff_collection_cliff01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/cliff_collection_cliff02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/cliff_collection_cliff02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/cliff_collection_cliff03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/cliff_collection_cliff03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/cliff_collection_cliff04.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/cliff_collection_cliff04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/cliff_collection_cliff05.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/cliff_collection_cliff05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/cliff_collection_cliff06.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/cliff_collection_cliff06.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/cliff_collection_cliff07.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/cliff_collection_cliff07.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Cliff_Huge_BaseColor.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Cliff_Huge_Normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Cliff_Huge_Roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Cliffs_Medium_BaseColor.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Cliffs_Medium_Normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Cliffs_Medium_Roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Desert_cliff_1.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Desert_cliff_1.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Desert_Cliff_2.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Desert_Cliff_2.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Desert_Cliff_3.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Desert_Cliff_3.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/desert_rock01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/desert_rock01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/desert_rock02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/desert_rock02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/desert_rock03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/desert_rock03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/desert_rock04.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/desert_rock04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/desert_rock05.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/desert_rock05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Grey_Desert_cliff_1.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Grey_Desert_cliff_1.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Grey_Desert_Cliff_2.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Grey_Desert_Cliff_2.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Grey_Desert_Cliff_3.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Grey_Desert_Cliff_3.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_boulder01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_boulder01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_boulder02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_boulder02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_boulder03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_boulder03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_boulder04.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_boulder04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_boulder05.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_boulder05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_boulder06.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_boulder06.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_boulder07.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_boulder07.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Rock_Collection_IR_Rocks_Grp_01_BaseColor.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Rock_Collection_IR_Rocks_Grp_01_Normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Rock_Collection_IR_Rocks_Grp_01_Roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone010.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone010.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone011.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone011.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone04.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone05.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone06.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone06.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone07.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone07.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone08.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone08.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone09.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rock_stone09.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation04.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation05.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation06.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation06.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation07.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation07.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation08.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rockFormation08.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rocks01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rocks01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rocks02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rocks02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rocks03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rocks03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rocks04.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rocks04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rocks05.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rocks05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rocks06.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rocks06.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rocks07.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/rock_collection_rocks07.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Rocks_Desert_BaseColor.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Rocks_Desert_Normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/Rocks_Desert_Roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/textures/Grey_Desert_Cliffs_BaseColor.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/textures/Grey_Desert_Cliffs_Metallic-Grey_Desert_Cliffs_Roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/textures/Grey_Desert_Cliffs_Normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/textures/Red_Desert_Cliffs_BaseColor.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/textures/Red_Desert_Cliffs_Metallic-Red_Desert_Cliffs_Roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/desert/textures/Red_Desert_Cliffs_Normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/jungle/jungle_rock01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/jungle/jungle_rock01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/jungle/jungle_rock02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/jungle/jungle_rock02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/jungle/jungle_rock03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/jungle/jungle_rock03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/jungle/jungle_rock04.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/jungle/jungle_rock04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/jungle/jungle_rock05.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/jungle/jungle_rock05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/jungle/Rocks_Jungle_BaseColor.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/jungle/Rocks_Jungle_Normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/jungle/Rocks_Jungle_Roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/mountain/Mountain_rock_01.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/mountain/Mountain_rock_01.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/mountain/Mountain_rock_02.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/mountain/Mountain_rock_02.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/mountain/Mountain_rock_03.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/mountain/Mountain_rock_03.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/mountain/Mountain_rock_04.001.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/mountain/Mountain_rock_04.001.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/mountain/textures/Mountain_rocks_Base_color.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/mountain/textures/Mountain_rocks_Normal_OpenGL.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/rocks/mountain/textures/Mountain_rocks_Roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/cherry_blossom.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/cherry_blossom.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreescherry_blossom.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/trees/globe_foliage_out02_Base_color.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesglobe_foliage_out02_Base_color.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/trees/globe_foliage_out02_Normal.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesglobe_foliage_out02_Normal.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/trees/globe_foliage_out02_Roughness.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesglobe_foliage_out02_Roughness.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/trees/green_maple_colliders.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/green_maple_colliders.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Tree"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesgreen_maple_colliders.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/trees/Image_0_bonsai.jpg": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesImage_0_bonsai.jpg-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/trees/Image_0.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesImage_0.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/trees/Image_0cherry.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesImage_0cherry.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/trees/Image_1.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesImage_1.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/trees/Image_1bonsai.jpg": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesImage_1bonsai.jpg-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/trees/Image_1cherry.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesImage_1cherry.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/trees/Image_3_bonsai.jpg": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/Image_4bonsai.jpg": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/Map__20_Map_Output_Selector.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesMap__20_Map_Output_Selector.png-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/trees/pine_bonsai.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pine_bonsai.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Tree"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pine_forest_textures.png": {
+    "type": "file",
+    "tags": [
+      "Image"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_mushroom01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_mushroom01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_mushroom02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_mushroom02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_mushroom03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_mushroom03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_mushroom04.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_mushroom04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_mushroom05.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_mushroom05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Plant"
+    ],
+    "dependencies": [],
+    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineForest_mushroom05.gltf-thumbnail.png",
+    "thumbnailMode": "automatic"
+  },
+  "assets/trees/pineForest_rock_01.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_rock_01.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_rock_02.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_rock_02.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_rock_03.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_rock_03.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_rock_04.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_rock_04.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_rock_05.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_rock_05.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_rock_06.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_rock_06.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_rock_07.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineForest_rock_07.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Rock"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineSaplingMed.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineSaplingMed.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Tree"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineSaplingSm.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineSaplingSm.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Tree"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineTreeLG.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineTreeLG.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Tree"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineTreeMed.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineTreeMed.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Tree"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineTreeSm.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/pineTreeSm.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Tree"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/red_maple_colliders.bin": {
+    "type": "file",
+    "tags": [
+      "unknown"
+    ],
+    "dependencies": []
+  },
+  "assets/trees/red_maple_colliders.gltf": {
+    "type": "file",
+    "tags": [
+      "Model",
+      "Nature",
+      "Tree"
+    ],
+    "dependencies": []
+  }
+}
