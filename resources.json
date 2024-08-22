@@ -5,7 +5,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_nature.pnghash46ffa4-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_nature.pnghash46ffa4-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/abstract_nature_stump_01.bin": {
@@ -24,7 +24,7 @@
       "Tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_stump_01.gltfhash0b42f5-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_stump_01.gltfhash0b42f5-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/abstract_nature_stump_02.bin": {
@@ -43,7 +43,7 @@
       "Tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_stump_02.gltfhashd989aa-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_stump_02.gltfhashd989aa-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/abstract_nature_tree_02.bin": {
@@ -62,7 +62,7 @@
       "Tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_tree_02.gltfhashc03f49-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_tree_02.gltfhashc03f49-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/abstract_nature_tree_03.bin": {
@@ -81,7 +81,7 @@
       "Tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_tree_03.gltfhash147067-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_tree_03.gltfhash147067-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/abstract_nature_tree_04.bin": {
@@ -100,7 +100,7 @@
       "Tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_tree_04.gltfhash4018c0-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_tree_04.gltfhash4018c0-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/abstract_nature_tree_05.bin": {
@@ -119,7 +119,7 @@
       "Tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_tree_05.gltfhashe07119-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_tree_05.gltfhashe07119-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/abstract_nature_tree_06.bin": {
@@ -138,7 +138,7 @@
       "Tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_tree_06.gltfhashfcac1c-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_natureabstract_nature_tree_06.gltfhashfcac1c-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_grass_01_data.bin": {
@@ -157,7 +157,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_grass_01.gltfhash09742f-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_grass_01.gltfhash09742f-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_grass_02_data.bin": {
@@ -176,7 +176,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_grass_02.gltfhashf0d75b-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_grass_02.gltfhashf0d75b-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_grass_03_data.bin": {
@@ -195,7 +195,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_grass_03.gltfhasha910c9-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_grass_03.gltfhasha910c9-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_grass_04_data.bin": {
@@ -214,7 +214,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_grass_04.gltfhash0f99d5-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_grass_04.gltfhash0f99d5-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_lantern_01_data.bin": {
@@ -233,7 +233,7 @@
       "Prop"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_lantern_01.gltfhashec8f8c-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_lantern_01.gltfhashec8f8c-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_lantern_02_data.bin": {
@@ -252,7 +252,7 @@
       "Prop"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_lantern_02.gltfhash0a2f88-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_lantern_02.gltfhash0a2f88-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_mushroom_01_data.bin": {
@@ -271,7 +271,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_mushroom_01.gltfhash452541-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_mushroom_01.gltfhash452541-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_mushroom_02_data.bin": {
@@ -290,7 +290,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_mushroom_02.gltfhashe3f1ca-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_mushroom_02.gltfhashe3f1ca-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_mushroom_03_data.bin": {
@@ -309,7 +309,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_mushroom_03.gltfhash27d236-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_mushroom_03.gltfhash27d236-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_mushroom_04_data.bin": {
@@ -328,7 +328,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_mushroom_04.gltfhash0a318f-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_mushroom_04.gltfhash0a318f-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_mushroom_05_data.bin": {
@@ -347,7 +347,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_mushroom_05.gltfhashe7b9ba-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_mushroom_05.gltfhashe7b9ba-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_rock_01.bin": {
@@ -366,7 +366,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_01.gltfhashbae123-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_01.gltfhashbae123-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_rock_02_data.bin": {
@@ -385,7 +385,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_02.gltfhash8d9993-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_02.gltfhash8d9993-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_rock_03_data.bin": {
@@ -404,7 +404,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_03.gltfhash870134-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_03.gltfhash870134-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_rock_04_data.bin": {
@@ -423,7 +423,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_04.gltfhashdf259b-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_04.gltfhashdf259b-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_rock_05_data.bin": {
@@ -442,7 +442,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_05.gltfhash4e9809-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_05.gltfhash4e9809-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_rock_06_data.bin": {
@@ -461,7 +461,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_06.gltfhash0957a7-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_06.gltfhash0957a7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_rock_07_data.bin": {
@@ -480,7 +480,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_07.gltfhash1095d0-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_07.gltfhash1095d0-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_rock_08_data.bin": {
@@ -499,7 +499,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_08.gltfhashc3f18d-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_rock_08.gltfhashc3f18d-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/fantasy_water_lilly_data.bin": {
@@ -518,7 +518,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_water_lilly.gltfhashbb8118-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturefantasy_water_lilly.gltfhashbb8118-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/Image.png": {
@@ -527,7 +527,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_natureImage.pnghash792d0d-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_natureImage.pnghash792d0d-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/stylized_forest_diffuse.png": {
@@ -536,7 +536,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsabstract_naturestylized_forest_diffuse.pnghash7c5d31-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsabstract_naturestylized_forest_diffuse.pnghash7c5d31-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/ground_coverage_dandelion_flower_01.bin": {
@@ -554,7 +554,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_dandelion_flower_01.gltfhash9ad9f8-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_dandelion_flower_01.gltfhash9ad9f8-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/ground_coverage_dandelion_flower_02.bin": {
@@ -572,7 +572,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_dandelion_flower_02.gltfhash77cdf0-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_dandelion_flower_02.gltfhash77cdf0-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/ground_coverage_dandelion_flower_03.bin": {
@@ -590,7 +590,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_dandelion_flower_03.gltfhashb78ef7-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_dandelion_flower_03.gltfhashb78ef7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/ground_coverage_dandelion_leaves_02.bin": {
@@ -608,7 +608,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_dandelion_leaves_02.gltfhashc38adb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_dandelion_leaves_02.gltfhashc38adb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/ground_coverage_plants_diffuse.png": {
@@ -617,7 +617,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_plants_diffuse.pnghashcfc108-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_plants_diffuse.pnghashcfc108-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/ground_coverage_sorrel_flowers_01.bin": {
@@ -635,7 +635,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_sorrel_flowers_01.gltfhash292031-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_sorrel_flowers_01.gltfhash292031-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/ground_coverage_sorrel_flowers_02.bin": {
@@ -653,7 +653,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_sorrel_flowers_02.gltfhashc9a973-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_sorrel_flowers_02.gltfhashc9a973-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/ground_coverage_sorrel_flowers_03.bin": {
@@ -671,7 +671,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_sorrel_flowers_03.gltfhash66befc-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_sorrel_flowers_03.gltfhash66befc-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/ground_coverage_sorrel_leaves_01.bin": {
@@ -689,7 +689,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_sorrel_leaves_01.gltfhash7b2056-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_sorrel_leaves_01.gltfhash7b2056-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/ground_coverage_sorrel_leaves_02.bin": {
@@ -707,7 +707,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_sorrel_leaves_02.gltfhash44e0e6-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_sorrel_leaves_02.gltfhash44e0e6-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/ground_coverage_weeds_03.bin": {
@@ -725,7 +725,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_weeds_03.gltfhash4bbdb5-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_weeds_03.gltfhash4bbdb5-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/ground_coverage_weeds_04.bin": {
@@ -743,7 +743,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_weeds_04.gltfhash1715c0-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_weeds_04.gltfhash1715c0-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/ground_coverage_weeds_05.bin": {
@@ -761,7 +761,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_weeds_05.gltfhasheafca1-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coverageground_coverage_weeds_05.gltfhasheafca1-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/wheat_texture.png": {
@@ -770,7 +770,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coveragewheat_texture.pnghashec21ea-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coveragewheat_texture.pnghashec21ea-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/wheat01.bin": {
@@ -788,7 +788,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coveragewheat01.gltfhashe85fa7-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coveragewheat01.gltfhashe85fa7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/wheat02.bin": {
@@ -806,7 +806,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coveragewheat02.gltfhash7f0595-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coveragewheat02.gltfhash7f0595-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/wheat03.bin": {
@@ -824,7 +824,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coveragewheat03.gltfhasha6dfc9-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coveragewheat03.gltfhasha6dfc9-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/wheat04.bin": {
@@ -842,7 +842,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coveragewheat04.gltfhashc69c24-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coveragewheat04.gltfhashc69c24-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/wheat05.bin": {
@@ -860,7 +860,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsground_coveragewheat05.gltfhasha4242b-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsground_coveragewheat05.gltfhasha4242b-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/bambo_agave.bin": {
@@ -878,7 +878,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0bambo_agave.gltfhashd7fe59-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0bambo_agave.gltfhashd7fe59-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/begonia_rex.bin": {
@@ -896,7 +896,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0begonia_rex.gltfhasha4d5b1-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0begonia_rex.gltfhasha4d5b1-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_0_rhyzome.jpg": {
@@ -905,7 +905,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_0_rhyzome.jpghash29e3c3-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_0_rhyzome.jpghash29e3c3-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_0.jpg": {
@@ -914,7 +914,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_0.jpghashbbe83c-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_0.jpghashbbe83c-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_0bamboo.png": {
@@ -923,7 +923,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_0bamboo.pnghash48e101-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_0bamboo.pnghash48e101-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_0begonia_begonia.jpg": {
@@ -932,7 +932,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_0begonia_begonia.jpghash03324b-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_0begonia_begonia.jpghash03324b-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_1_rhyzome.jpg": {
@@ -941,7 +941,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_1_rhyzome.jpghash742a92-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_1_rhyzome.jpghash742a92-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_1.jpg": {
@@ -950,7 +950,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_1.jpghashcfc51e-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_1.jpghashcfc51e-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_1bamboo.png": {
@@ -959,7 +959,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_1bamboo.pnghash58ea3b-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_1bamboo.pnghash58ea3b-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_2_begonia.png": {
@@ -968,7 +968,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_2_begonia.pnghash04e6be-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_2_begonia.pnghash04e6be-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_2.jpg": {
@@ -977,7 +977,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_2.jpghash841154-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_2.jpghash841154-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_3.jpg": {
@@ -986,7 +986,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_3.jpghashf6ad15-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_3.jpghashf6ad15-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_3.png": {
@@ -995,7 +995,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_3.pnghash57eb14-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_3.pnghash57eb14-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_4.png": {
@@ -1004,7 +1004,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_4.pnghash06075c-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0Image_4.pnghash06075c-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/rhyzomePlant_colliders.bin": {
@@ -1022,7 +1022,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0rhyzomePlant_colliders.gltfhashb4689d-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0rhyzomePlant_colliders.gltfhashb4689d-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/tall_vine_house_plants.bin": {
@@ -1040,7 +1040,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0tall_vine_house_plants.gltfhashbc7d6e-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetshouse_plantsCC0tall_vine_house_plants.gltfhashbc7d6e-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/plants/desert/desert_shrub_01.bin": {
@@ -1058,7 +1058,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsplantsdesertdesert_shrub_01.gltfhash13be9c-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsplantsdesertdesert_shrub_01.gltfhash13be9c-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/plants/desert/desert_shrub_02.bin": {
@@ -1076,7 +1076,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsplantsdesertdesert_shrub_02.gltfhashadc529-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsplantsdesertdesert_shrub_02.gltfhashadc529-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/plants/desert/desert_shrub_03.bin": {
@@ -1094,7 +1094,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsplantsdesertdesert_shrub_03.gltfhasha96efe-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsplantsdesertdesert_shrub_03.gltfhasha96efe-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/plants/desert/nature_desert_diffuse.png": {
@@ -1103,7 +1103,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsplantsdesertnature_desert_diffuse.pnghashaf8bd9-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsplantsdesertnature_desert_diffuse.pnghashaf8bd9-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/plants/desert/spiny_aloe_01.bin": {
@@ -1121,7 +1121,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsplantsdesertspiny_aloe_01.gltfhashb66d83-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsplantsdesertspiny_aloe_01.gltfhashb66d83-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/plants/desert/spiny_aloe_02.bin": {
@@ -1139,7 +1139,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsplantsdesertspiny_aloe_02.gltfhash7276f1-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsplantsdesertspiny_aloe_02.gltfhash7276f1-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/aboreal/aboreal_rock01.bin": {
@@ -1157,7 +1157,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksaborealaboreal_rock01.gltfhash610d25-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksaborealaboreal_rock01.gltfhash610d25-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/aboreal/aboreal_rock02.bin": {
@@ -1175,7 +1175,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksaborealaboreal_rock02.gltfhash16e251-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksaborealaboreal_rock02.gltfhash16e251-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/aboreal/aboreal_rock03.bin": {
@@ -1193,7 +1193,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksaborealaboreal_rock03.gltfhash7dd875-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksaborealaboreal_rock03.gltfhash7dd875-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/aboreal/aboreal_rock04.bin": {
@@ -1211,7 +1211,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksaborealaboreal_rock04.gltfhasha549b0-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksaborealaboreal_rock04.gltfhasha549b0-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/aboreal/aboreal_rock05.bin": {
@@ -1229,7 +1229,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksaborealaboreal_rock05.gltfhashc85cf0-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksaborealaboreal_rock05.gltfhashc85cf0-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/aboreal/Rocks_Temperate_BaseColor.png": {
@@ -1238,7 +1238,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksaborealRocks_Temperate_BaseColor.pnghash7af650-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksaborealRocks_Temperate_BaseColor.pnghash7af650-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/aboreal/Rocks_Temperate_Normal.png": {
@@ -1247,7 +1247,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksaborealRocks_Temperate_Normal.pnghash448316-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksaborealRocks_Temperate_Normal.pnghash448316-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/aboreal/Rocks_Temperate_Roughness.png": {
@@ -1256,7 +1256,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksaborealRocks_Temperate_Roughness.pnghash1c665a-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksaborealRocks_Temperate_Roughness.pnghash1c665a-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/arctic_rock01.bin": {
@@ -1274,7 +1274,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rock01.gltfhash113c92-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rock01.gltfhash113c92-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/arctic_rock02.bin": {
@@ -1292,7 +1292,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rock02.gltfhashf920df-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rock02.gltfhashf920df-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/arctic_rock03.bin": {
@@ -1310,7 +1310,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rock03.gltfhash986661-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rock03.gltfhash986661-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/arctic_rock04.bin": {
@@ -1328,7 +1328,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rock04.gltfhashd9cb3c-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rock04.gltfhashd9cb3c-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/arctic_rock05.bin": {
@@ -1346,7 +1346,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rock05.gltfhasha4f3ce-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rock05.gltfhasha4f3ce-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/arctic_rockpile_01.bin": {
@@ -1364,7 +1364,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rockpile_01.gltfhashd452b4-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rockpile_01.gltfhashd452b4-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/arctic_rockpile_02.bin": {
@@ -1382,7 +1382,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rockpile_02.gltfhashbfd2b3-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rockpile_02.gltfhashbfd2b3-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/arctic_rockpile_03.bin": {
@@ -1400,7 +1400,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rockpile_03.gltfhashbb2e48-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticarctic_rockpile_03.gltfhashbb2e48-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Med_offset_01.001.bin": {
@@ -1418,7 +1418,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_offset_01.001.gltfhashb9e975-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_offset_01.001.gltfhashb9e975-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Med_offset_02.001.bin": {
@@ -1436,7 +1436,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_offset_02.001.gltfhashece882-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_offset_02.001.gltfhashece882-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Med_offset_03.001.bin": {
@@ -1454,7 +1454,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_offset_03.001.gltfhash395913-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_offset_03.001.gltfhash395913-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Med_offset_04.001.bin": {
@@ -1472,7 +1472,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_offset_04.001.gltfhash196ecb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_offset_04.001.gltfhash196ecb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Med_pile_01.001.bin": {
@@ -1490,7 +1490,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_pile_01.001.gltfhash379471-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_pile_01.001.gltfhash379471-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Med_pile_02.001.bin": {
@@ -1508,7 +1508,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_pile_02.001.gltfhash5917c8-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_pile_02.001.gltfhash5917c8-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Med_pile_03.001.bin": {
@@ -1526,7 +1526,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_pile_03.001.gltfhash010107-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_pile_03.001.gltfhash010107-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Med_pile_04.001.bin": {
@@ -1544,7 +1544,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_pile_04.001.gltfhash00f69d-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticMed_pile_04.001.gltfhash00f69d-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Rocks_Arctic_BaseColor.png": {
@@ -1553,7 +1553,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticRocks_Arctic_BaseColor.pnghash253bac-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticRocks_Arctic_BaseColor.pnghash253bac-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Rocks_Arctic_Normal.png": {
@@ -1562,7 +1562,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticRocks_Arctic_Normal.pnghash05af72-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticRocks_Arctic_Normal.pnghash05af72-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Rocks_Arctic_Roughness.png": {
@@ -1571,7 +1571,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticRocks_Arctic_Roughness.pnghashddec41-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticRocks_Arctic_Roughness.pnghashddec41-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Short_pile_01.001.bin": {
@@ -1589,7 +1589,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticShort_pile_01.001.gltfhashb22a6e-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticShort_pile_01.001.gltfhashb22a6e-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Short_Pile_02.001.bin": {
@@ -1607,7 +1607,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticShort_Pile_02.001.gltfhash54baf9-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticShort_Pile_02.001.gltfhash54baf9-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Short_Pile_03.001.bin": {
@@ -1625,7 +1625,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticShort_Pile_03.001.gltfhash5575cf-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticShort_Pile_03.001.gltfhash5575cf-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Short_Pile_04.001.bin": {
@@ -1643,7 +1643,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarcticShort_Pile_04.001.gltfhash11f6df-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarcticShort_Pile_04.001.gltfhash11f6df-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/textures/Arctic_rockpile_01_Base_color.png": {
@@ -1652,7 +1652,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarctictexturesArctic_rockpile_01_Base_color.pnghash539a57-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarctictexturesArctic_rockpile_01_Base_color.pnghash539a57-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/textures/Arctic_rockpile_01_Normal_OpenGL.png": {
@@ -1661,7 +1661,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarctictexturesArctic_rockpile_01_Normal_OpenGL.pnghasha3b3d5-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarctictexturesArctic_rockpile_01_Normal_OpenGL.pnghasha3b3d5-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/textures/Arctic_rockpile_01_Roughness.png": {
@@ -1670,7 +1670,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarctictexturesArctic_rockpile_01_Roughness.pnghash4a27f6-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarctictexturesArctic_rockpile_01_Roughness.pnghash4a27f6-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/textures/Basalt_Columns_Base_color.png": {
@@ -1679,7 +1679,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarctictexturesBasalt_Columns_Base_color.pnghashdede7f-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarctictexturesBasalt_Columns_Base_color.pnghashdede7f-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/textures/Basalt_Columns_Metallic-Basalt_Columns_Roughness.png": {
@@ -1688,7 +1688,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarctictexturesBasalt_Columns_Metallic-Basalt_Columns_Roughness.pnghash440cb6-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarctictexturesBasalt_Columns_Metallic-Basalt_Columns_Roughness.pnghash440cb6-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/textures/Basalt_Columns_Normal_OpenGL.png": {
@@ -1697,7 +1697,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksarctictexturesBasalt_Columns_Normal_OpenGL.pnghash15cd15-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksarctictexturesBasalt_Columns_Normal_OpenGL.pnghash15cd15-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/cliff_collection_cliff01.bin": {
@@ -1715,7 +1715,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertcliff_collection_cliff01.gltfhashee86bc-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertcliff_collection_cliff01.gltfhashee86bc-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/cliff_collection_cliff02.bin": {
@@ -1733,7 +1733,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertcliff_collection_cliff02.gltfhashb13f40-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertcliff_collection_cliff02.gltfhashb13f40-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/cliff_collection_cliff03.bin": {
@@ -1751,7 +1751,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertcliff_collection_cliff03.gltfhash0c06be-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertcliff_collection_cliff03.gltfhash0c06be-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/cliff_collection_cliff04.bin": {
@@ -1769,7 +1769,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertcliff_collection_cliff04.gltfhash800679-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertcliff_collection_cliff04.gltfhash800679-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/cliff_collection_cliff05.bin": {
@@ -1787,7 +1787,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertcliff_collection_cliff05.gltfhashad8ebc-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertcliff_collection_cliff05.gltfhashad8ebc-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/cliff_collection_cliff06.bin": {
@@ -1805,7 +1805,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertcliff_collection_cliff06.gltfhashc780d8-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertcliff_collection_cliff06.gltfhashc780d8-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/cliff_collection_cliff07.bin": {
@@ -1823,7 +1823,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertcliff_collection_cliff07.gltfhashade4ef-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertcliff_collection_cliff07.gltfhashade4ef-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Cliff_Huge_BaseColor.png": {
@@ -1832,7 +1832,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertCliff_Huge_BaseColor.pnghasha1638e-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertCliff_Huge_BaseColor.pnghasha1638e-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Cliff_Huge_Normal.png": {
@@ -1841,7 +1841,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertCliff_Huge_Normal.pnghash364fc6-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertCliff_Huge_Normal.pnghash364fc6-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Cliff_Huge_Roughness.png": {
@@ -1850,7 +1850,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertCliff_Huge_Roughness.pnghash7c98f3-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertCliff_Huge_Roughness.pnghash7c98f3-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Cliffs_Medium_BaseColor.png": {
@@ -1859,7 +1859,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertCliffs_Medium_BaseColor.pnghash4108f7-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertCliffs_Medium_BaseColor.pnghash4108f7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Cliffs_Medium_Normal.png": {
@@ -1868,7 +1868,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertCliffs_Medium_Normal.pnghash38eb11-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertCliffs_Medium_Normal.pnghash38eb11-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Cliffs_Medium_Roughness.png": {
@@ -1877,7 +1877,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertCliffs_Medium_Roughness.pnghash2f3af5-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertCliffs_Medium_Roughness.pnghash2f3af5-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Desert_cliff_1.bin": {
@@ -1895,7 +1895,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertDesert_cliff_1.gltfhash9a898a-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertDesert_cliff_1.gltfhash9a898a-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Desert_Cliff_2.bin": {
@@ -1913,7 +1913,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertDesert_Cliff_2.gltfhashced947-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertDesert_Cliff_2.gltfhashced947-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Desert_Cliff_3.bin": {
@@ -1931,7 +1931,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertDesert_Cliff_3.gltfhash5d90f2-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertDesert_Cliff_3.gltfhash5d90f2-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/desert_rock01.bin": {
@@ -1949,7 +1949,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertdesert_rock01.gltfhash8b68b0-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertdesert_rock01.gltfhash8b68b0-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/desert_rock02.bin": {
@@ -1967,7 +1967,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertdesert_rock02.gltfhash625f0f-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertdesert_rock02.gltfhash625f0f-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/desert_rock03.bin": {
@@ -1985,7 +1985,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertdesert_rock03.gltfhash9df268-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertdesert_rock03.gltfhash9df268-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/desert_rock04.bin": {
@@ -2003,7 +2003,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertdesert_rock04.gltfhashace889-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertdesert_rock04.gltfhashace889-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/desert_rock05.bin": {
@@ -2021,7 +2021,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertdesert_rock05.gltfhash84c8c0-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertdesert_rock05.gltfhash84c8c0-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Grey_Desert_cliff_1.bin": {
@@ -2039,7 +2039,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertGrey_Desert_cliff_1.gltfhasha0fedc-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertGrey_Desert_cliff_1.gltfhasha0fedc-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Grey_Desert_Cliff_2.bin": {
@@ -2057,7 +2057,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertGrey_Desert_Cliff_2.gltfhashad17ea-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertGrey_Desert_Cliff_2.gltfhashad17ea-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Grey_Desert_Cliff_3.bin": {
@@ -2075,7 +2075,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertGrey_Desert_Cliff_3.gltfhashce0e42-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertGrey_Desert_Cliff_3.gltfhashce0e42-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_boulder01.bin": {
@@ -2093,7 +2093,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_boulder01.gltfhashe41984-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_boulder01.gltfhashe41984-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_boulder02.bin": {
@@ -2111,7 +2111,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_boulder02.gltfhash402031-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_boulder02.gltfhash402031-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_boulder03.bin": {
@@ -2129,7 +2129,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_boulder03.gltfhashd90cf4-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_boulder03.gltfhashd90cf4-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_boulder04.bin": {
@@ -2147,7 +2147,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_boulder04.gltfhashc004ad-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_boulder04.gltfhashc004ad-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_boulder05.bin": {
@@ -2165,7 +2165,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_boulder05.gltfhash99c912-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_boulder05.gltfhash99c912-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_boulder06.bin": {
@@ -2183,7 +2183,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_boulder06.gltfhash046c05-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_boulder06.gltfhash046c05-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_boulder07.bin": {
@@ -2201,7 +2201,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_boulder07.gltfhash161fc0-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_boulder07.gltfhash161fc0-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Rock_Collection_IR_Rocks_Grp_01_BaseColor.png": {
@@ -2210,7 +2210,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertRock_Collection_IR_Rocks_Grp_01_BaseColor.pnghash550e02-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertRock_Collection_IR_Rocks_Grp_01_BaseColor.pnghash550e02-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Rock_Collection_IR_Rocks_Grp_01_Normal.png": {
@@ -2219,7 +2219,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertRock_Collection_IR_Rocks_Grp_01_Normal.pnghash3fc8e7-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertRock_Collection_IR_Rocks_Grp_01_Normal.pnghash3fc8e7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Rock_Collection_IR_Rocks_Grp_01_Roughness.png": {
@@ -2228,7 +2228,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertRock_Collection_IR_Rocks_Grp_01_Roughness.pnghashbff654-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertRock_Collection_IR_Rocks_Grp_01_Roughness.pnghashbff654-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rock_stone01.bin": {
@@ -2246,7 +2246,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone01.gltfhash66cec4-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone01.gltfhash66cec4-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rock_stone02.bin": {
@@ -2264,7 +2264,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone02.gltfhash94b600-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone02.gltfhash94b600-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rock_stone03.bin": {
@@ -2282,7 +2282,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone03.gltfhash5b7da3-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone03.gltfhash5b7da3-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rock_stone04.bin": {
@@ -2300,7 +2300,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone04.gltfhashefbad3-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone04.gltfhashefbad3-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rock_stone05.bin": {
@@ -2318,7 +2318,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone05.gltfhash3a34b6-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone05.gltfhash3a34b6-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rock_stone06.bin": {
@@ -2336,7 +2336,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone06.gltfhash434221-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone06.gltfhash434221-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rock_stone07.bin": {
@@ -2354,7 +2354,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone07.gltfhash1ccf43-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone07.gltfhash1ccf43-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rock_stone08.bin": {
@@ -2372,7 +2372,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone08.gltfhash18eefb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone08.gltfhash18eefb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rock_stone09.bin": {
@@ -2390,7 +2390,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone09.gltfhashab6ea0-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rock_stone09.gltfhashab6ea0-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rockFormation01.bin": {
@@ -2408,7 +2408,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation01.gltfhash5cac4d-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation01.gltfhash5cac4d-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rockFormation02.bin": {
@@ -2426,7 +2426,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation02.gltfhash6517a5-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation02.gltfhash6517a5-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rockFormation03.bin": {
@@ -2444,7 +2444,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation03.gltfhash1695db-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation03.gltfhash1695db-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rockFormation04.bin": {
@@ -2462,7 +2462,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation04.gltfhash7330b8-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation04.gltfhash7330b8-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rockFormation05.bin": {
@@ -2480,7 +2480,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation05.gltfhashb265c3-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation05.gltfhashb265c3-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rockFormation06.bin": {
@@ -2498,7 +2498,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation06.gltfhashe85a60-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation06.gltfhashe85a60-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rockFormation07.bin": {
@@ -2516,7 +2516,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation07.gltfhashfad058-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation07.gltfhashfad058-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rockFormation08.bin": {
@@ -2534,7 +2534,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation08.gltfhash12a725-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rockFormation08.gltfhash12a725-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rocks01.bin": {
@@ -2552,7 +2552,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rocks01.gltfhash41b56a-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rocks01.gltfhash41b56a-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rocks02.bin": {
@@ -2570,7 +2570,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rocks02.gltfhash5cc4f9-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rocks02.gltfhash5cc4f9-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rocks03.bin": {
@@ -2588,7 +2588,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rocks03.gltfhashf88009-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rocks03.gltfhashf88009-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rocks04.bin": {
@@ -2606,7 +2606,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rocks04.gltfhash097909-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rocks04.gltfhash097909-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rocks05.bin": {
@@ -2624,7 +2624,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rocks05.gltfhashb1afec-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rocks05.gltfhashb1afec-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rocks06.bin": {
@@ -2642,7 +2642,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rocks06.gltfhashf19805-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rocks06.gltfhashf19805-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/rock_collection_rocks07.bin": {
@@ -2660,7 +2660,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rocks07.gltfhash55aba7-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertrock_collection_rocks07.gltfhash55aba7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Rocks_Desert_BaseColor.png": {
@@ -2669,7 +2669,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertRocks_Desert_BaseColor.pnghash0748ba-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertRocks_Desert_BaseColor.pnghash0748ba-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Rocks_Desert_Normal.png": {
@@ -2678,7 +2678,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertRocks_Desert_Normal.pnghashcdeb97-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertRocks_Desert_Normal.pnghashcdeb97-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Rocks_Desert_Roughness.png": {
@@ -2687,7 +2687,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdesertRocks_Desert_Roughness.pnghasha54cc2-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdesertRocks_Desert_Roughness.pnghasha54cc2-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/textures/Grey_Desert_Cliffs_BaseColor.png": {
@@ -2696,7 +2696,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdeserttexturesGrey_Desert_Cliffs_BaseColor.pnghashc86f65-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdeserttexturesGrey_Desert_Cliffs_BaseColor.pnghashc86f65-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/textures/Grey_Desert_Cliffs_Metallic-Grey_Desert_Cliffs_Roughness.png": {
@@ -2705,7 +2705,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdeserttexturesGrey_Desert_Cliffs_Metallic-Grey_Desert_Cliffs_Roughness.pnghashe9a201-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdeserttexturesGrey_Desert_Cliffs_Metallic-Grey_Desert_Cliffs_Roughness.pnghashe9a201-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/textures/Grey_Desert_Cliffs_Normal.png": {
@@ -2714,7 +2714,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdeserttexturesGrey_Desert_Cliffs_Normal.pnghashd5eec9-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdeserttexturesGrey_Desert_Cliffs_Normal.pnghashd5eec9-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/textures/Red_Desert_Cliffs_BaseColor.png": {
@@ -2723,7 +2723,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdeserttexturesRed_Desert_Cliffs_BaseColor.pnghashdce899-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdeserttexturesRed_Desert_Cliffs_BaseColor.pnghashdce899-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/textures/Red_Desert_Cliffs_Metallic-Red_Desert_Cliffs_Roughness.png": {
@@ -2732,7 +2732,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdeserttexturesRed_Desert_Cliffs_Metallic-Red_Desert_Cliffs_Roughness.pnghash1e9704-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdeserttexturesRed_Desert_Cliffs_Metallic-Red_Desert_Cliffs_Roughness.pnghash1e9704-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/textures/Red_Desert_Cliffs_Normal.png": {
@@ -2741,7 +2741,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksdeserttexturesRed_Desert_Cliffs_Normal.pnghash7cc3d6-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksdeserttexturesRed_Desert_Cliffs_Normal.pnghash7cc3d6-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/jungle/jungle_rock01.bin": {
@@ -2759,7 +2759,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksjunglejungle_rock01.gltfhashe5f0f7-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksjunglejungle_rock01.gltfhashe5f0f7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/jungle/jungle_rock02.bin": {
@@ -2777,7 +2777,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksjunglejungle_rock02.gltfhash51716d-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksjunglejungle_rock02.gltfhash51716d-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/jungle/jungle_rock03.bin": {
@@ -2795,7 +2795,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksjunglejungle_rock03.gltfhashc4c164-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksjunglejungle_rock03.gltfhashc4c164-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/jungle/jungle_rock04.bin": {
@@ -2813,7 +2813,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksjunglejungle_rock04.gltfhashdb5fc7-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksjunglejungle_rock04.gltfhashdb5fc7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/jungle/jungle_rock05.bin": {
@@ -2831,7 +2831,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksjunglejungle_rock05.gltfhash8c95fc-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksjunglejungle_rock05.gltfhash8c95fc-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/jungle/Rocks_Jungle_BaseColor.png": {
@@ -2840,7 +2840,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksjungleRocks_Jungle_BaseColor.pnghash091262-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksjungleRocks_Jungle_BaseColor.pnghash091262-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/jungle/Rocks_Jungle_Normal.png": {
@@ -2849,7 +2849,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksjungleRocks_Jungle_Normal.pnghashf65650-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksjungleRocks_Jungle_Normal.pnghashf65650-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/jungle/Rocks_Jungle_Roughness.png": {
@@ -2858,7 +2858,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksjungleRocks_Jungle_Roughness.pnghash4a53fc-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksjungleRocks_Jungle_Roughness.pnghash4a53fc-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/mountain/Mountain_rock_01.001.bin": {
@@ -2876,7 +2876,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksmountainMountain_rock_01.001.gltfhash3acce1-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksmountainMountain_rock_01.001.gltfhash3acce1-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/mountain/Mountain_rock_02.001.bin": {
@@ -2894,7 +2894,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksmountainMountain_rock_02.001.gltfhash23e58f-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksmountainMountain_rock_02.001.gltfhash23e58f-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/mountain/Mountain_rock_03.001.bin": {
@@ -2912,7 +2912,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksmountainMountain_rock_03.001.gltfhash18d098-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksmountainMountain_rock_03.001.gltfhash18d098-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/mountain/Mountain_rock_04.001.bin": {
@@ -2930,7 +2930,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksmountainMountain_rock_04.001.gltfhashffae3b-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksmountainMountain_rock_04.001.gltfhashffae3b-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/mountain/textures/Mountain_rocks_Base_color.png": {
@@ -2939,7 +2939,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksmountaintexturesMountain_rocks_Base_color.pnghash9f91b0-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksmountaintexturesMountain_rocks_Base_color.pnghash9f91b0-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/mountain/textures/Mountain_rocks_Normal_OpenGL.png": {
@@ -2948,7 +2948,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksmountaintexturesMountain_rocks_Normal_OpenGL.pnghash77fda7-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksmountaintexturesMountain_rocks_Normal_OpenGL.pnghash77fda7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/rocks/mountain/textures/Mountain_rocks_Roughness.png": {
@@ -2957,7 +2957,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetsrocksmountaintexturesMountain_rocks_Roughness.pnghashc7076a-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetsrocksmountaintexturesMountain_rocks_Roughness.pnghashc7076a-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/cherry_blossom.bin": {
@@ -2975,7 +2975,7 @@
       "Tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreescherry_blossom.gltfhash83986e-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreescherry_blossom.gltfhash83986e-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/globe_foliage_out02_Base_color.png": {
@@ -2984,7 +2984,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesglobe_foliage_out02_Base_color.pnghash82f51a-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreesglobe_foliage_out02_Base_color.pnghash82f51a-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/globe_foliage_out02_Normal.png": {
@@ -2993,7 +2993,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesglobe_foliage_out02_Normal.pnghash2358fc-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreesglobe_foliage_out02_Normal.pnghash2358fc-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/globe_foliage_out02_Roughness.png": {
@@ -3002,7 +3002,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesglobe_foliage_out02_Roughness.pnghasha634c7-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreesglobe_foliage_out02_Roughness.pnghasha634c7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/green_maple_colliders.bin": {
@@ -3020,7 +3020,7 @@
       "Tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesgreen_maple_colliders.gltfhash95b2ec-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreesgreen_maple_colliders.gltfhash95b2ec-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_0_bonsai.jpg": {
@@ -3029,7 +3029,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesImage_0_bonsai.jpghash9f04b4-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreesImage_0_bonsai.jpghash9f04b4-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_0.png": {
@@ -3038,7 +3038,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesImage_0.pnghashe5eb67-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreesImage_0.pnghashe5eb67-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_0cherry.png": {
@@ -3047,7 +3047,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesImage_0cherry.pnghash5effe2-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreesImage_0cherry.pnghash5effe2-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_1.png": {
@@ -3056,7 +3056,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesImage_1.pnghash9feb67-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreesImage_1.pnghash9feb67-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_1bonsai.jpg": {
@@ -3065,7 +3065,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesImage_1bonsai.jpghashd7d41b-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreesImage_1bonsai.jpghashd7d41b-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_1cherry.png": {
@@ -3074,7 +3074,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesImage_1cherry.pnghashae4b54-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreesImage_1cherry.pnghashae4b54-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_3_bonsai.jpg": {
@@ -3083,7 +3083,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesImage_3_bonsai.jpghashac3d38-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreesImage_3_bonsai.jpghashac3d38-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_4bonsai.jpg": {
@@ -3092,7 +3092,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesImage_4bonsai.jpghasha41652-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreesImage_4bonsai.jpghasha41652-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/Map__20_Map_Output_Selector.png": {
@@ -3101,7 +3101,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesMap__20_Map_Output_Selector.pnghash9feb67-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreesMap__20_Map_Output_Selector.pnghash9feb67-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pine_bonsai.bin": {
@@ -3119,7 +3119,7 @@
       "Tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespine_bonsai.gltfhash59cf6b-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespine_bonsai.gltfhash59cf6b-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pine_forest_textures.png": {
@@ -3128,7 +3128,7 @@
       "Image"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespine_forest_textures.pnghash796612-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespine_forest_textures.pnghash796612-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineForest_mushroom01.bin": {
@@ -3146,7 +3146,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineForest_mushroom01.gltfhashef3532-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineForest_mushroom01.gltfhashef3532-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineForest_mushroom02.bin": {
@@ -3164,7 +3164,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineForest_mushroom02.gltfhash911441-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineForest_mushroom02.gltfhash911441-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineForest_mushroom03.bin": {
@@ -3182,7 +3182,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineForest_mushroom03.gltfhash867d05-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineForest_mushroom03.gltfhash867d05-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineForest_mushroom04.bin": {
@@ -3200,7 +3200,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineForest_mushroom04.gltfhashe03fb8-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineForest_mushroom04.gltfhashe03fb8-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineForest_mushroom05.bin": {
@@ -3218,7 +3218,7 @@
       "Plant"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineForest_mushroom05.gltfhashcbf238-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineForest_mushroom05.gltfhashcbf238-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineForest_rock_01.bin": {
@@ -3236,7 +3236,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineForest_rock_01.gltfhash43be5c-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineForest_rock_01.gltfhash43be5c-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineForest_rock_02.bin": {
@@ -3254,7 +3254,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineForest_rock_02.gltfhash8b8936-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineForest_rock_02.gltfhash8b8936-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineForest_rock_03.bin": {
@@ -3272,7 +3272,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineForest_rock_03.gltfhash72ab58-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineForest_rock_03.gltfhash72ab58-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineForest_rock_04.bin": {
@@ -3290,7 +3290,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineForest_rock_04.gltfhash998cb9-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineForest_rock_04.gltfhash998cb9-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineForest_rock_05.bin": {
@@ -3308,7 +3308,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineForest_rock_05.gltfhash1da7ed-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineForest_rock_05.gltfhash1da7ed-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineForest_rock_06.bin": {
@@ -3326,7 +3326,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineForest_rock_06.gltfhash753b50-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineForest_rock_06.gltfhash753b50-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineForest_rock_07.bin": {
@@ -3344,7 +3344,7 @@
       "Rock"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineForest_rock_07.gltfhashaf1feb-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineForest_rock_07.gltfhashaf1feb-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineSaplingLg.bin": {
@@ -3362,7 +3362,7 @@
       "Model"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineSaplingLg.gltfhash76dbf7-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineSaplingLg.gltfhash76dbf7-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineSaplingMed.bin": {
@@ -3380,7 +3380,7 @@
       "Tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineSaplingMed.gltfhash555bda-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineSaplingMed.gltfhash555bda-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineSaplingSm.bin": {
@@ -3398,7 +3398,7 @@
       "Tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineSaplingSm.gltfhasha69c72-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineSaplingSm.gltfhasha69c72-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineTreeLG.bin": {
@@ -3416,7 +3416,7 @@
       "Tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineTreeLG.gltfhash639cc8-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineTreeLG.gltfhash639cc8-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineTreeMed.bin": {
@@ -3434,7 +3434,7 @@
       "Tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineTreeMed.gltfhash0e7cc0-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineTreeMed.gltfhash0e7cc0-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/pineTreeSm.bin": {
@@ -3450,7 +3450,7 @@
       "Model"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreespineTreeSm.gltfhash5daf1a-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreespineTreeSm.gltfhash5daf1a-thumbnail.png",
     "thumbnailMode": "automatic"
   },
   "assets/trees/red_maple_colliders.bin": {
@@ -3468,7 +3468,7 @@
       "Tree"
     ],
     "dependencies": [],
-    "thumbnailKey": "projects/ir-nature/public/thumbnails/ir-natureassetstreesred_maple_colliders.gltfhash51c36d-thumbnail.png",
+    "thumbnailKey": "projects/ir-engine/ir-nature/public/thumbnails/ir-natureassetstreesred_maple_colliders.gltfhash51c36d-thumbnail.png",
     "thumbnailMode": "automatic"
   }
 }
