@@ -1,5 +1,5 @@
 {
-  "name": "ir-nature",
+  "name": "ir-engine/ir-nature",
   "version": "0.0.0",
   "engineVersion": "1.6.0",
   "description": "The default project for iR Engine",
