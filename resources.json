@@ -1,6 +1,6 @@
 {
   "assets/abstract_nature/.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -16,7 +16,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/abstract_nature_stump_01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -35,7 +35,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/abstract_nature_stump_02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -54,7 +54,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/abstract_nature_tree_02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -73,7 +73,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/abstract_nature_tree_03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -92,7 +92,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/abstract_nature_tree_04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -111,7 +111,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/abstract_nature_tree_05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -130,7 +130,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/abstract_nature_tree_06.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -149,7 +149,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_grass_01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -168,7 +168,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_grass_02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -187,7 +187,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_grass_03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -206,7 +206,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_grass_04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -225,7 +225,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_lantern_01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -244,7 +244,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_lantern_02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -263,7 +263,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_mushroom_01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -282,7 +282,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_mushroom_02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -301,7 +301,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_mushroom_03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -320,7 +320,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_mushroom_04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -339,7 +339,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_mushroom_05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -358,7 +358,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_rock_01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -377,7 +377,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_rock_02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -396,7 +396,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_rock_03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -415,7 +415,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_rock_04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -434,7 +434,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_rock_05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -453,7 +453,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_rock_06.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -472,7 +472,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_rock_07.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -491,7 +491,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_rock_08.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -510,7 +510,7 @@
     "dependencies": []
   },
   "assets/abstract_nature/fantasy_water_lilly.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -522,7 +522,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/Image.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -531,7 +531,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/abstract_nature/stylized_forest_diffuse.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -547,7 +547,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/ground_coverage_dandelion_flower_01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -565,7 +565,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/ground_coverage_dandelion_flower_02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -583,7 +583,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/ground_coverage_dandelion_flower_03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -601,7 +601,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/ground_coverage_dandelion_leaves_02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -612,7 +612,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/ground_coverage_plants_diffuse.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -628,7 +628,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/ground_coverage_sorrel_flowers_01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -646,7 +646,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/ground_coverage_sorrel_flowers_02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -664,7 +664,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/ground_coverage_sorrel_flowers_03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -682,7 +682,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/ground_coverage_sorrel_leaves_01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -700,7 +700,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/ground_coverage_sorrel_leaves_02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -718,7 +718,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/ground_coverage_weeds_03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -736,7 +736,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/ground_coverage_weeds_04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -754,7 +754,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/ground_coverage_weeds_05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -765,7 +765,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/ground_coverage/wheat_texture.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -781,7 +781,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/wheat01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -799,7 +799,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/wheat02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -817,7 +817,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/wheat03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -835,7 +835,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/wheat04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -853,7 +853,7 @@
     "dependencies": []
   },
   "assets/ground_coverage/wheat05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -871,7 +871,7 @@
     "dependencies": []
   },
   "assets/house_plants/CC0/bambo_agave.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -889,7 +889,7 @@
     "dependencies": []
   },
   "assets/house_plants/CC0/begonia_rex.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -900,7 +900,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_0_rhyzome.jpg": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -909,7 +909,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_0.jpg": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -918,7 +918,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_0bamboo.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -927,7 +927,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_0begonia_begonia.jpg": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -936,7 +936,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_1_rhyzome.jpg": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -945,7 +945,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_1.jpg": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -954,7 +954,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_1bamboo.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -963,7 +963,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_2_begonia.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -972,7 +972,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_2.jpg": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -981,7 +981,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_3.jpg": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -990,7 +990,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_3.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -999,7 +999,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/house_plants/CC0/Image_4.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1015,7 +1015,7 @@
     "dependencies": []
   },
   "assets/house_plants/CC0/rhyzomePlant_colliders.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1033,7 +1033,7 @@
     "dependencies": []
   },
   "assets/house_plants/CC0/tall_vine_house_plants.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1051,7 +1051,7 @@
     "dependencies": []
   },
   "assets/plants/desert/desert_shrub_01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1069,7 +1069,7 @@
     "dependencies": []
   },
   "assets/plants/desert/desert_shrub_02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1087,7 +1087,7 @@
     "dependencies": []
   },
   "assets/plants/desert/desert_shrub_03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1098,7 +1098,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/plants/desert/nature_desert_diffuse.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1114,7 +1114,7 @@
     "dependencies": []
   },
   "assets/plants/desert/spiny_aloe_01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1132,7 +1132,7 @@
     "dependencies": []
   },
   "assets/plants/desert/spiny_aloe_02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1150,7 +1150,7 @@
     "dependencies": []
   },
   "assets/rocks/aboreal/aboreal_rock01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1168,7 +1168,7 @@
     "dependencies": []
   },
   "assets/rocks/aboreal/aboreal_rock02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1186,7 +1186,7 @@
     "dependencies": []
   },
   "assets/rocks/aboreal/aboreal_rock03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1204,7 +1204,7 @@
     "dependencies": []
   },
   "assets/rocks/aboreal/aboreal_rock04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1222,7 +1222,7 @@
     "dependencies": []
   },
   "assets/rocks/aboreal/aboreal_rock05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1233,7 +1233,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/aboreal/Rocks_Temperate_BaseColor.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1242,7 +1242,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/aboreal/Rocks_Temperate_Normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1251,7 +1251,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/aboreal/Rocks_Temperate_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1267,7 +1267,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/arctic_rock01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1285,7 +1285,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/arctic_rock02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1303,7 +1303,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/arctic_rock03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1321,7 +1321,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/arctic_rock04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1339,7 +1339,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/arctic_rock05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1357,7 +1357,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/arctic_rockpile_01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1375,7 +1375,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/arctic_rockpile_02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1393,7 +1393,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/arctic_rockpile_03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1411,7 +1411,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/Med_offset_01.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1429,7 +1429,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/Med_offset_02.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1447,7 +1447,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/Med_offset_03.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1465,7 +1465,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/Med_offset_04.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1483,7 +1483,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/Med_pile_01.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1501,7 +1501,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/Med_pile_02.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1519,7 +1519,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/Med_pile_03.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1537,7 +1537,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/Med_pile_04.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1548,7 +1548,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Rocks_Arctic_BaseColor.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1557,7 +1557,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Rocks_Arctic_Normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1566,7 +1566,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/Rocks_Arctic_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1582,7 +1582,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/Short_pile_01.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1600,7 +1600,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/Short_Pile_02.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1618,7 +1618,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/Short_Pile_03.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1636,7 +1636,7 @@
     "dependencies": []
   },
   "assets/rocks/arctic/Short_Pile_04.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1647,7 +1647,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/textures/Arctic_rockpile_01_Base_color.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1656,7 +1656,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/textures/Arctic_rockpile_01_Normal_OpenGL.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1665,7 +1665,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/textures/Arctic_rockpile_01_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1674,7 +1674,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/textures/Basalt_Columns_Base_color.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1683,7 +1683,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/textures/Basalt_Columns_Metallic-Basalt_Columns_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1692,7 +1692,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/arctic/textures/Basalt_Columns_Normal_OpenGL.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1708,7 +1708,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/cliff_collection_cliff01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1726,7 +1726,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/cliff_collection_cliff02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1744,7 +1744,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/cliff_collection_cliff03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1762,7 +1762,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/cliff_collection_cliff04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1780,7 +1780,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/cliff_collection_cliff05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1798,7 +1798,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/cliff_collection_cliff06.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1816,7 +1816,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/cliff_collection_cliff07.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1827,7 +1827,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Cliff_Huge_BaseColor.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1836,7 +1836,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Cliff_Huge_Normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1845,7 +1845,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Cliff_Huge_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1854,7 +1854,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Cliffs_Medium_BaseColor.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1863,7 +1863,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Cliffs_Medium_Normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1872,7 +1872,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Cliffs_Medium_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -1888,7 +1888,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/Desert_cliff_1.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1906,7 +1906,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/Desert_Cliff_2.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1924,7 +1924,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/Desert_Cliff_3.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1942,7 +1942,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/desert_rock01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1960,7 +1960,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/desert_rock02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1978,7 +1978,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/desert_rock03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -1996,7 +1996,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/desert_rock04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2014,7 +2014,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/desert_rock05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2032,7 +2032,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/Grey_Desert_cliff_1.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2050,7 +2050,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/Grey_Desert_Cliff_2.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2068,7 +2068,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/Grey_Desert_Cliff_3.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2086,7 +2086,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_boulder01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2104,7 +2104,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_boulder02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2122,7 +2122,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_boulder03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2140,7 +2140,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_boulder04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2158,7 +2158,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_boulder05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2176,7 +2176,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_boulder06.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2194,7 +2194,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_boulder07.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2205,7 +2205,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Rock_Collection_IR_Rocks_Grp_01_BaseColor.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2214,7 +2214,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Rock_Collection_IR_Rocks_Grp_01_Normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2223,7 +2223,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Rock_Collection_IR_Rocks_Grp_01_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2239,7 +2239,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rock_stone01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2257,7 +2257,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rock_stone02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2275,7 +2275,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rock_stone03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2293,7 +2293,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rock_stone04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2311,7 +2311,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rock_stone05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2329,7 +2329,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rock_stone06.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2347,7 +2347,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rock_stone07.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2365,7 +2365,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rock_stone08.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2383,7 +2383,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rock_stone09.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2401,7 +2401,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rockFormation01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2419,7 +2419,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rockFormation02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2437,7 +2437,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rockFormation03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2455,7 +2455,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rockFormation04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2473,7 +2473,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rockFormation05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2491,7 +2491,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rockFormation06.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2509,7 +2509,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rockFormation07.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2527,7 +2527,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rockFormation08.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2545,7 +2545,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rocks01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2563,7 +2563,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rocks02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2581,7 +2581,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rocks03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2599,7 +2599,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rocks04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2617,7 +2617,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rocks05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2635,7 +2635,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rocks06.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2653,7 +2653,7 @@
     "dependencies": []
   },
   "assets/rocks/desert/rock_collection_rocks07.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2664,7 +2664,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Rocks_Desert_BaseColor.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2673,7 +2673,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Rocks_Desert_Normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2682,7 +2682,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/Rocks_Desert_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2691,7 +2691,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/textures/Grey_Desert_Cliffs_BaseColor.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2700,7 +2700,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/textures/Grey_Desert_Cliffs_Metallic-Grey_Desert_Cliffs_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2709,7 +2709,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/textures/Grey_Desert_Cliffs_Normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2718,7 +2718,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/textures/Red_Desert_Cliffs_BaseColor.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2727,7 +2727,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/textures/Red_Desert_Cliffs_Metallic-Red_Desert_Cliffs_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2736,7 +2736,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/desert/textures/Red_Desert_Cliffs_Normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2752,7 +2752,7 @@
     "dependencies": []
   },
   "assets/rocks/jungle/jungle_rock01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2770,7 +2770,7 @@
     "dependencies": []
   },
   "assets/rocks/jungle/jungle_rock02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2788,7 +2788,7 @@
     "dependencies": []
   },
   "assets/rocks/jungle/jungle_rock03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2806,7 +2806,7 @@
     "dependencies": []
   },
   "assets/rocks/jungle/jungle_rock04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2824,7 +2824,7 @@
     "dependencies": []
   },
   "assets/rocks/jungle/jungle_rock05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2835,7 +2835,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/jungle/Rocks_Jungle_BaseColor.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2844,7 +2844,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/jungle/Rocks_Jungle_Normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2853,7 +2853,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/jungle/Rocks_Jungle_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2869,7 +2869,7 @@
     "dependencies": []
   },
   "assets/rocks/mountain/Mountain_rock_01.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2887,7 +2887,7 @@
     "dependencies": []
   },
   "assets/rocks/mountain/Mountain_rock_02.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2905,7 +2905,7 @@
     "dependencies": []
   },
   "assets/rocks/mountain/Mountain_rock_03.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2923,7 +2923,7 @@
     "dependencies": []
   },
   "assets/rocks/mountain/Mountain_rock_04.001.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2934,7 +2934,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/mountain/textures/Mountain_rocks_Base_color.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2943,7 +2943,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/mountain/textures/Mountain_rocks_Normal_OpenGL.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2952,7 +2952,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/rocks/mountain/textures/Mountain_rocks_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2968,7 +2968,7 @@
     "dependencies": []
   },
   "assets/trees/cherry_blossom.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -2979,7 +2979,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/trees/globe_foliage_out02_Base_color.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2988,7 +2988,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/trees/globe_foliage_out02_Normal.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -2997,7 +2997,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/trees/globe_foliage_out02_Roughness.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -3013,7 +3013,7 @@
     "dependencies": []
   },
   "assets/trees/green_maple_colliders.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3024,7 +3024,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_0_bonsai.jpg": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -3033,7 +3033,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_0.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -3042,7 +3042,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_0cherry.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -3051,7 +3051,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_1.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -3060,7 +3060,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_1bonsai.jpg": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -3069,7 +3069,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_1cherry.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -3078,7 +3078,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_3_bonsai.jpg": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -3087,7 +3087,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/trees/Image_4bonsai.jpg": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -3096,7 +3096,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/trees/Map__20_Map_Output_Selector.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -3112,7 +3112,7 @@
     "dependencies": []
   },
   "assets/trees/pine_bonsai.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3123,7 +3123,7 @@
     "thumbnailMode": "automatic"
   },
   "assets/trees/pine_forest_textures.png": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Image"
     ],
@@ -3139,7 +3139,7 @@
     "dependencies": []
   },
   "assets/trees/pineForest_mushroom01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3157,7 +3157,7 @@
     "dependencies": []
   },
   "assets/trees/pineForest_mushroom02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3175,7 +3175,7 @@
     "dependencies": []
   },
   "assets/trees/pineForest_mushroom03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3193,7 +3193,7 @@
     "dependencies": []
   },
   "assets/trees/pineForest_mushroom04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3211,7 +3211,7 @@
     "dependencies": []
   },
   "assets/trees/pineForest_mushroom05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3229,7 +3229,7 @@
     "dependencies": []
   },
   "assets/trees/pineForest_rock_01.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3247,7 +3247,7 @@
     "dependencies": []
   },
   "assets/trees/pineForest_rock_02.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3265,7 +3265,7 @@
     "dependencies": []
   },
   "assets/trees/pineForest_rock_03.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3283,7 +3283,7 @@
     "dependencies": []
   },
   "assets/trees/pineForest_rock_04.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3301,7 +3301,7 @@
     "dependencies": []
   },
   "assets/trees/pineForest_rock_05.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3319,7 +3319,7 @@
     "dependencies": []
   },
   "assets/trees/pineForest_rock_06.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3337,7 +3337,7 @@
     "dependencies": []
   },
   "assets/trees/pineForest_rock_07.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3355,7 +3355,7 @@
     "dependencies": []
   },
   "assets/trees/pineSaplingLg.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Nature",
       "Tree",
@@ -3373,7 +3373,7 @@
     "dependencies": []
   },
   "assets/trees/pineSaplingMed.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3391,7 +3391,7 @@
     "dependencies": []
   },
   "assets/trees/pineSaplingSm.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3409,7 +3409,7 @@
     "dependencies": []
   },
   "assets/trees/pineTreeLG.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3427,7 +3427,7 @@
     "dependencies": []
   },
   "assets/trees/pineTreeMed.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
@@ -3445,7 +3445,7 @@
     "dependencies": []
   },
   "assets/trees/pineTreeSm.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model"
     ],
@@ -3461,7 +3461,7 @@
     "dependencies": []
   },
   "assets/trees/red_maple_colliders.gltf": {
-    "type": "file",
+    "type": "asset",
     "tags": [
       "Model",
       "Nature",
